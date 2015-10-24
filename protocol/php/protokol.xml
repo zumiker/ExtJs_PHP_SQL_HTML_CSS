@@ -1,0 +1,663 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>user</Author>
+  <LastAuthor>user</LastAuthor>
+  <Created>2014-10-18T07:15:46Z</Created>
+  <LastSaved>2014-10-18T05:16:16Z</LastSaved>
+  <Version>14.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>4860</WindowHeight>
+  <WindowWidth>9360</WindowWidth>
+  <WindowTopX>150</WindowTopX>
+  <WindowTopY>480</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Protection ss:Protected="0"/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Helvetica" x:CharSet="204" ss:Bold="1"/>
+   <Protection ss:Protected="0"/>
+  </Style>
+  <Style ss:ID="s65">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Protection ss:Protected="0"/>
+  </Style>
+  <Style ss:ID="s67">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Helvetica" x:CharSet="204" ss:Bold="1"/>
+   <Protection ss:Protected="0"/>
+  </Style>
+  <Style ss:ID="s69">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Helvetica" x:CharSet="204" ss:Bold="1"/>
+   <Protection ss:Protected="0"/>
+  </Style>
+  <Style ss:ID="s70">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Helvetica" x:CharSet="204"/>
+   <Protection ss:Protected="0"/>
+  </Style>
+  <Style ss:ID="s71">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Helvetica" x:CharSet="204"/>
+   <Protection ss:Protected="0"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="protokol">
+  <Table ss:ExpandedColumnCount="9" ss:ExpandedRowCount="93" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s62">
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="51"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="38.25"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="14.25"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="213.75"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="30"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="35.25"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="51"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="66.75"/>
+   <Column ss:StyleID="s62" ss:Width="78.75"/>
+   <Row>
+    <Cell ss:Index="2" ss:MergeAcross="7" ss:StyleID="s63"><Data ss:Type="String">Протокол рекомендованных к зачислению на 1 курс РГУ нефти и газа имени И. М. Губкина на 11.08.2014</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4" ss:StyleID="s63"><Data ss:Type="String">1 этап</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:MergeAcross="2" ss:StyleID="s63"><Data ss:Type="String">Конкурсная группа 10   (бюджетный набор )</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:MergeAcross="2" ss:StyleID="s63"><Data ss:Type="String">направления: </Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">12.03.01</Data></Cell>
+    <Cell><Data ss:Type="String">АИ</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s65"><Data ss:Type="String">Информационно-измерительная техника и технологии</Data></Cell>
+   </Row>
+   <Row ss:Index="7">
+    <Cell ss:Index="2" ss:MergeAcross="2" ss:StyleID="s67"><Data ss:Type="String">Всего мест в конкурсной группе</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">25</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:MergeAcross="2" ss:StyleID="s67"><Data ss:Type="String">Всего подано заявлений</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">225</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:MergeAcross="2" ss:StyleID="s67"><Data ss:Type="String">Всего мужчин</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">184</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:MergeAcross="2" ss:StyleID="s67"><Data ss:Type="String">Всего женщин</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">41</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:MergeAcross="2" ss:StyleID="s67"><Data ss:Type="String">Конкурс по заявлениям</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">9</Data></Cell>
+   </Row>
+   <Row ss:Index="13">
+    <Cell ss:Index="2" ss:MergeAcross="2" ss:StyleID="s67"><Data ss:Type="String">Зачислено</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:MergeAcross="2" ss:StyleID="s67"><Data ss:Type="String">- Без вступительных испытаний</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:MergeAcross="2" ss:StyleID="s67"><Data ss:Type="String">- Особые права</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:MergeAcross="2" ss:StyleID="s67"><Data ss:Type="String">- Целевой набор</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row ss:Index="18">
+    <Cell ss:Index="2" ss:MergeAcross="2" ss:StyleID="s67"><Data ss:Type="String">Осталось мест в конкурсной группе</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">25</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:MergeAcross="2" ss:StyleID="s67"><Data ss:Type="String">Мест в общежитии</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">20</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:MergeAcross="2" ss:StyleID="s67"><Data ss:Type="String">Осталось мест в общежитии</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">20</Data></Cell>
+   </Row>
+   <Row ss:Index="22">
+    <Cell ss:Index="2" ss:MergeAcross="2" ss:StyleID="s67"><Data ss:Type="String">Прошедшие по конкурсу</Data></Cell>
+   </Row>
+   <Row ss:Index="24">
+    <Cell ss:Index="2" ss:StyleID="s67"><Data ss:Type="String">№</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s67"><Data ss:Type="String">ФИО</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s67"><Data ss:Type="String">Балл</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Аттестат</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Общежитие</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Рекомендован</Data></Cell>
+   </Row>
+   <Row ss:Index="26">
+    <Cell ss:Index="2" ss:StyleID="s65"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">КАШИРИН МИХАИЛ ЕВГЕНЬЕВИЧ</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s70"><Data ss:Type="Number">236</Data></Cell>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Рекомендован</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s65"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">ТРИФОНОВА МАРИЯ ДМИТРИЕВНА</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s70"><Data ss:Type="Number">235</Data></Cell>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Рекомендован</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s65"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">ОНИЩУК АНАСТАСИЯ РОМАНОВНА</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s70"><Data ss:Type="Number">234</Data></Cell>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Рекомендован</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s65"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">МИДОВА РАВИДА АРТУРОВНА</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s70"><Data ss:Type="Number">234</Data></Cell>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Рекомендован</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s65"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">ФЕДОРОВ ИЛЬЯ АЛЕКСАНДРОВИЧ</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s70"><Data ss:Type="Number">233</Data></Cell>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Рекомендован</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s65"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">АНТОНОВ МИХАИЛ ДМИТРИЕВИЧ</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s70"><Data ss:Type="Number">232</Data></Cell>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Рекомендован</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s65"><Data ss:Type="Number">7</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">ГОПКО НИКИТА БОГДАНОВИЧ</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s70"><Data ss:Type="Number">231</Data></Cell>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Рекомендован</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s65"><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">ПРОКОФЬЕВ ПАВЕЛ АЛЕКСАНДРОВИЧ</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s70"><Data ss:Type="Number">231</Data></Cell>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Рекомендован</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s65"><Data ss:Type="Number">9</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">ЗАМАЩИКОВ ЯРОСЛАВ ВАЛЕРЬЕВИЧ</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s70"><Data ss:Type="Number">231</Data></Cell>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Рекомендован</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s65"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">КРЫЛОВ НИКИТА АНДРЕЕВИЧ</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s70"><Data ss:Type="Number">230</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Подл</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Общежитие</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Рекомендован</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s65"><Data ss:Type="Number">11</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">ОСИПОВ МАКСИМ МИХАЙЛОВИЧ</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s70"><Data ss:Type="Number">229</Data></Cell>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Рекомендован</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s65"><Data ss:Type="Number">12</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">МУРЗАБАЕВА АДИЛЯ БАТЫРХАНОВНА</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s70"><Data ss:Type="Number">228</Data></Cell>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Рекомендован</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s65"><Data ss:Type="Number">13</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">ПЛЮЩЕВА НАТАЛИЯ МИХАЙЛОВНА</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s70"><Data ss:Type="Number">227</Data></Cell>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Рекомендован</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s65"><Data ss:Type="Number">14</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">БАРАНОВ НИКИТА ДАНИИЛОВИЧ</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s70"><Data ss:Type="Number">227</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Подл</Data></Cell>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Рекомендован</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s65"><Data ss:Type="Number">15</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">ПОЛОНСКАЯ ДИАНА АЛЕКСАНДРОВНА</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s70"><Data ss:Type="Number">226</Data></Cell>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Рекомендован</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s65"><Data ss:Type="Number">16</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">ОСИПОВ МАКСИМ АЛЕКСАНДРОВИЧ</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s70"><Data ss:Type="Number">226</Data></Cell>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Рекомендован</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s65"><Data ss:Type="Number">17</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">ВОЛКОВ АНТОН ИГОРЕВИЧ</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s70"><Data ss:Type="Number">225</Data></Cell>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Рекомендован</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s65"><Data ss:Type="Number">18</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">ДАВЫШИН АЛЕКСЕЙ СЕРГЕЕВИЧ</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s70"><Data ss:Type="Number">225</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Подл</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Общежитие</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Рекомендован</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s65"><Data ss:Type="Number">19</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">ШЕЧКОВ АЛЕКСАНДР МИХАЙЛОВИЧ</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s70"><Data ss:Type="Number">224</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Подл</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Общежитие</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Рекомендован</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s65"><Data ss:Type="Number">20</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">ЧЕРНИКОВ ГЛЕБ ВАСИЛЬЕВИЧ</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s70"><Data ss:Type="Number">224</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Подл</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Общежитие</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Рекомендован</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s65"><Data ss:Type="Number">21</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">НЕСТЕРЕНКО НИКИТА ДМИТРИЕВИЧ</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s70"><Data ss:Type="Number">223</Data></Cell>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Рекомендован</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s65"><Data ss:Type="Number">22</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">АРХИПОВ ДАНИИЛ ПАВЛОВИЧ</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s70"><Data ss:Type="Number">222</Data></Cell>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Рекомендован</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s65"><Data ss:Type="Number">23</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">БОБЫЛЕВА АНАСТАСИЯ АЛЕКСАНДРОВНА</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s70"><Data ss:Type="Number">222</Data></Cell>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Рекомендован</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s65"><Data ss:Type="Number">24</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">АКУЛОВСКИЙ АНТОН ВАЛЕРЬЕВИЧ</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s70"><Data ss:Type="Number">222</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Подл</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Общежитие</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Рекомендован</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s65"><Data ss:Type="Number">25</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">ШЕПЛЯКОВ АРСЕНИЙ ПАВЛОВИЧ</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s70"><Data ss:Type="Number">222</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Подл</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Общежитие</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Рекомендован</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s65"><Data ss:Type="Number">26</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">ДОЛЕНКО АЛЕКСЕЙ ДМИТРИЕВИЧ</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s70"><Data ss:Type="Number">221</Data></Cell>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Рекомендован</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s65"><Data ss:Type="Number">27</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">ХЛЫСТОВА ЕКАТЕРИНА СЕРГЕЕВНА</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s70"><Data ss:Type="Number">221</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Подл</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Общежитие</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Рекомендован</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s65"><Data ss:Type="Number">28</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">АЛЕКСАНДРОВ ДМИТРИЙ ДМИТРИЕВИЧ</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s70"><Data ss:Type="Number">220</Data></Cell>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Рекомендован</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s65"><Data ss:Type="Number">29</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">ТИХОМИРОВ АЛЕКСАНДР СЕРГЕЕВИЧ</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s70"><Data ss:Type="Number">219</Data></Cell>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Рекомендован</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s65"><Data ss:Type="Number">30</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">ПЛОТНИКОВ СЕРГЕЙ ВЛАДИМИРОВИЧ</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s70"><Data ss:Type="Number">219</Data></Cell>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Рекомендован</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s65"><Data ss:Type="Number">31</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">СЫПКО АЛЕКСЕЙ МАРКОВИЧ</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s70"><Data ss:Type="Number">219</Data></Cell>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Рекомендован</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s65"><Data ss:Type="Number">32</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">ЛИ СЕ ВОН </Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s70"><Data ss:Type="Number">219</Data></Cell>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Рекомендован</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s65"><Data ss:Type="Number">33</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">КАЛИНИН ВИКТОР АЛЕКСЕЕВИЧ</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s70"><Data ss:Type="Number">218</Data></Cell>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Рекомендован</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s65"><Data ss:Type="Number">34</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">ЕСИПОВ СЕРГЕЙ ВИКТОРОВИЧ</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s70"><Data ss:Type="Number">218</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Подл</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Общежитие</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Рекомендован</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s65"><Data ss:Type="Number">35</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">ТРИФОНОВ ВЛАДИСЛАВ ГЕРМАНОВИЧ</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s70"><Data ss:Type="Number">218</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Подл</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Общежитие</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Рекомендован</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s65"><Data ss:Type="Number">36</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">АГАЛАРОВ МАГОМЕД-ЗАКИ АГАЛАРОВИЧ</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s70"><Data ss:Type="Number">217</Data></Cell>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Рекомендован</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s65"><Data ss:Type="Number">37</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">АГЛЕТДИНОВА ИРИНА ВЯЧЕСЛАВОВНА</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s70"><Data ss:Type="Number">217</Data></Cell>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Рекомендован</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s65"><Data ss:Type="Number">38</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">ЗОРИНА АННА СЕРГЕЕВНА</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s70"><Data ss:Type="Number">217</Data></Cell>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Рекомендован</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s65"><Data ss:Type="Number">39</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">КОСТЯНАЯ ЕКАТЕРИНА АНДРЕЕВНА</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s70"><Data ss:Type="Number">217</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Подл</Data></Cell>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Рекомендован</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s65"><Data ss:Type="Number">40</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">АМБАРЦУМЯН ГУРГЕН АРУТЮНОВИЧ</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s70"><Data ss:Type="Number">216</Data></Cell>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Рекомендован</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s65"><Data ss:Type="Number">41</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">СТАРОСТИН ИЛЬЯ ЮРЬЕВИЧ</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s70"><Data ss:Type="Number">215</Data></Cell>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Рекомендован</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s65"><Data ss:Type="Number">42</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">ПОНАМАРЕВ НИКИТА ВЯЧЕСЛАВОВИЧ</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s70"><Data ss:Type="Number">215</Data></Cell>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Рекомендован</Data></Cell>
+   </Row>
+   <Row ss:Index="69">
+    <Cell ss:Index="2" ss:MergeAcross="5" ss:StyleID="s67"><Data ss:Type="String">Выдержавшие вступительные испытания и претендующие на поступление</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:MergeAcross="5" ss:StyleID="s63"><Data ss:Type="String">на 1-й курс университета на вакантные места после 1 этапа</Data></Cell>
+   </Row>
+   <Row ss:Index="73">
+    <Cell ss:Index="2" ss:StyleID="s67"><Data ss:Type="String">№</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s67"><Data ss:Type="String">ФИО</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s67"><Data ss:Type="String">Балл</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Аттестат</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Общежитие</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Рекомендован</Data></Cell>
+   </Row>
+   <Row ss:Index="75">
+    <Cell ss:Index="2" ss:StyleID="s65"><Data ss:Type="Number">43</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">КАНТИМИРОВ РОМАН АЛИКОВИЧ</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s70"><Data ss:Type="Number">213</Data></Cell>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s65"><Data ss:Type="Number">44</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">ПЕТРОВ ДАНИИЛ ДМИТРИЕВИЧ</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s70"><Data ss:Type="Number">213</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Подл</Data></Cell>
+    <Cell ss:StyleID="s71"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s65"><Data ss:Type="Number">45</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">САЗОНОВ АНДРЕЙ АЛЕКСАНДРОВИЧ</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s70"><Data ss:Type="Number">212</Data></Cell>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s65"><Data ss:Type="Number">46</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">ЗИМОДРО ДМИТРИЙ ОЛЕГОВИЧ</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s70"><Data ss:Type="Number">211</Data></Cell>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s65"><Data ss:Type="Number">47</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">САВИН ГЕОРГИЙ АНДРЕЕВИЧ</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s70"><Data ss:Type="Number">209</Data></Cell>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s65"><Data ss:Type="Number">48</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">УСМАНОВ РУСЛАН ВАДИМОВИЧ</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s70"><Data ss:Type="Number">206</Data></Cell>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s65"><Data ss:Type="Number">49</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">ДАШКИН АРТЕМ ВЛАДИМИРОВИЧ</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s70"><Data ss:Type="Number">205</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Подл</Data></Cell>
+    <Cell ss:StyleID="s71"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s65"><Data ss:Type="Number">50</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">КОЛОДИНСКИЙ ФЕДОР ГЕННАДИЕВИЧ</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s70"><Data ss:Type="Number">204</Data></Cell>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s65"><Data ss:Type="Number">51</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">БАЛАШОВ АЛЕКСАНДР ЮРЬЕВИЧ</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s70"><Data ss:Type="Number">201</Data></Cell>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s65"><Data ss:Type="Number">52</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">ДАН МАКСИМ СЕРГЕЕВИЧ</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s70"><Data ss:Type="Number">187</Data></Cell>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s65"><Data ss:Type="Number">53</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">СОБЧЕНКО РОМАН ГЕННАДЬЕВИЧ</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s70"><Data ss:Type="Number">186</Data></Cell>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s65"><Data ss:Type="Number">54</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">ДАТЦКИЙ СЕРГЕЙ АЛЕКСАНДРОВИЧ</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s70"><Data ss:Type="Number">182</Data></Cell>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s65"><Data ss:Type="Number">55</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">МАЛЫГИН ВЛАДИСЛАВ АНАТОЛЬЕВИЧ</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s70"><Data ss:Type="Number">171</Data></Cell>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s65"><Data ss:Type="Number">56</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">КУРБАНОВ МАГОМЕД МАГОМЕДОВИЧ</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s70"><Data ss:Type="Number">170</Data></Cell>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s65"><Data ss:Type="Number">57</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">ГАЛЯНДИН НИКИТА ЕВГЕНЬЕВИЧ</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s70"><Data ss:Type="Number">169</Data></Cell>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s65"><Data ss:Type="Number">58</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">МАКОВЕЕВ АЛЕКСЕЙ АНАТОЛЬЕВИЧ</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s70"><Data ss:Type="Number">165</Data></Cell>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s65"><Data ss:Type="Number">59</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">ЕРОШЕНКО АНАСТАСИЯ КОНСТАНТИНОВНА</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s70"><Data ss:Type="Number">165</Data></Cell>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s65"><Data ss:Type="Number">60</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">ФЕДЯЕВ ВЯЧЕСЛАВ АЛЕКСАНДРОВИЧ</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s70"><Data ss:Type="Number">159</Data></Cell>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s65"><Data ss:Type="Number">61</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">БИРЮКОВ МИХАИЛ ЮРЬЕВИЧ</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s70"><Data ss:Type="Number">159</Data></Cell>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"/>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Footer x:Data="стр.&amp;P"/>
+    <PageMargins x:Bottom="0.8" x:Left="0" x:Right="0" x:Top="0"/>
+   </PageSetup>
+   <Print>
+    <FitHeight>0</FitHeight>
+    <ValidPrinterInfo/>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+    <Gridlines/>
+   </Print>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>27</ActiveRow>
+     <ActiveCol>7</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

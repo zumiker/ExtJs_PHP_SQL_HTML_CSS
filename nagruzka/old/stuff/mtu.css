@@ -1,0 +1,35 @@
+.all,p,li,ul, body, tbody  {font-family: Verdana, Arial, Helvetica, sans-serif; Font-Size:11px;}
+th {font-family: Verdana, Arial, Helvetica, sans-serif; Font-Size:11px;}
+td {font-family: Verdana, Arial, Helvetica, sans-serif; Font-Size:11px;}
+td.form {font-family: Verdana, Arial, Helvetica, sans-serif; Font-Size:11px; color: #F5F9FC; align: left;}
+h1 {font-family: Verdana, Arial, Helvetica, sans-serif; Font-Size:11px;}
+a {color: #006699;}
+select, input {font-family: Verdana, Arial, Helvetica, sans-serif; Font-Size:10px;}
+
+.nonelinelink {text-decoration: none;}
+
+.bimage    {border-color: white; color: white;}.MenuItems {padding-left: 11px; padding-top: 11px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px}.ifields   {border-left:px solid #FFFFFF; border-right:px solid #FFFFFF; border-top:2 solid #FFFFFF; border-bottom:2 solid #FFFFFF; width: 133; font-size: 12 px; font-family: Arial, Helvetica, sans-serif; background-color: #CEE4F1; }
+.tmenu {font-family: Verdana, Arial, Helvetica, sans-serif; Font-Size:11px; color: #000000; background-color: #F5F9FC; Border-Color: #0074B9; Border-Style:Solid; Border-Width:1px;}
+.tmenutitle {font-family: Verdana, Arial, Helvetica, sans-serif; Font-Size:11px; font-weight: bold; color: #FFFFFF; background-color: #0074B9;}
+.tmenuitem {font-family: Verdana, Arial, Helvetica, sans-serif; Font-Size:11px; color: #FFFFFF; background-color: #0074B9;}
+.topmenulink {hover: #FFFFFF; font-family: Verdana, Arial, Helvetica, sans-serif; Font-Size:11px; color: #FFFFFF;}
+.tmainmenu {font-family: Verdana, Arial, Helvetica, sans-serif; Font-Size:11px; color: #FFFFFF; background-color: #0074B9;}
+.thead {font-family: Verdana, Arial, Helvetica, sans-serif; Font-Size:11px; font-weight: bold; color: #000000; background-color: #E0E0E0;}
+.tdata {font-family: Verdana, Arial, Helvetica, sans-serif; Font-Size:11px; color: #000000; background-color: #F7F7F7;}
+.stdtable {Border-Color: #E0E0E0; Border-Style:Solid; Border-Width:1px;}
+.colortable {Border-Color: #FFCC00; Border-Style:Solid; Border-Width:1px;}
+.theader {font-family: Verdana, Arial, Helvetica, sans-serif; Font-Size:11px; font-weight: bold; text-align: center; color: #000000; background-color: #E0E0E0;}
+.tcolorheader {font-family: Verdana, Arial, Helvetica, sans-serif; Font-Size:11px; font-weight: bold; text-align: center; color: #FFCC00; background-color: #FFCC00;}
+.trow {font-family: Verdana, Arial, Helvetica, sans-serif; Font-Size:11px; color: #000000; background-color: #F7F7F7;}
+.trowe {font-family: Verdana, Arial, Helvetica, sans-serif; Font-Size:11px; color: #000000; background-color: #FFFFFF;}
+.trowo {font-family: Verdana, Arial, Helvetica, sans-serif; Font-Size:11px; color: #000000; background-color: #F7F7F7;}
+.tsummary {font-family: Verdana, Arial, Helvetica, sans-serif; Font-Size:11px; font-weight: bold; color: #000000; background-color: #E0E0E0;}
+.tbottom {font-family: Verdana, Arial, Helvetica, sans-serif; Font-Size:11px; color: #000000; background-color: #E0E0E0;}
+
+.tform {Border-Color: #E0E0E0; Border-Style:Solid; Border-Width:1px; background-color: #F7F7F7}
+.tformheader {font-family: Verdana, Arial, Helvetica, sans-serif; Font-Size:11px; font-weight: bold; color: #000000; background-color: #E0E0E0;}
+.tformbottom {font-family: Verdana, Arial, Helvetica, sans-serif; Font-Size:11px; color: #000000; background-color: #E0E0E0;}
+.tformactivetab {font-family: Verdana, Arial, Helvetica, sans-serif; Font-Size:11px; font-weight: bold; color: #000000; background-color: #E0E0E0;}
+.tformtab {font-family: Verdana, Arial, Helvetica, sans-serif; Font-Size:11px; font-weight: bold; color: #000000; background-color: #ECEBEB;}
+.tformactivetabdown {font-family: Verdana, Arial, Helvetica, sans-serif; Font-Size:11px; color: #FFFFFF; background-color: #0074B9;}
+.tformtabdown {font-family: Verdana, Arial, Helvetica, sans-serif; Font-Size:11px; color: #000000; background-color: #E0E0E0;}

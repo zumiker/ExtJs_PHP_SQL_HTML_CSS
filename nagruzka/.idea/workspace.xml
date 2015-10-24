@@ -1,0 +1,1487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="28e9b497-0730-4411-9ec9-38bbdca1e373" name="Default" comment="" />
+    <ignored path="nagruzka.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="nagruzka" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.35617366">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="Users.js" pinned="false" current="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/app/controller/Users.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="201" column="28" selection-start="9074" selection-end="9074" vertical-scroll-proportion="0.14571428" vertical-offset="3315" max-vertical-offset="7446">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="close.php" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/php/close.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="27" column="40" selection-start="701" selection-end="722" vertical-scroll-proportion="0.0" vertical-offset="166" max-vertical-offset="1071">
+                  <folding>
+                    <marker date="1432738747713" expanded="true" signature="200:315" placeholder="UPDATE NAGRU..." />
+                    <marker date="1432738747713" expanded="true" signature="246:270" placeholder="SELECT SYSDA..DUAL..." />
+                    <marker date="1432738747713" expanded="true" signature="471:546" placeholder="delete from ..." />
+                    <marker date="1432738747713" expanded="true" signature="582:655" placeholder="delete from ..." />
+                    <marker date="1432738747713" expanded="true" signature="689:1217" placeholder="INSERT INTO ..." />
+                    <marker date="1432738747713" expanded="true" signature="724:1216" placeholder="select NAGID..Z_DISPETCH_NAGRUZKA..." />
+                    <marker date="1432738747713" expanded="true" signature="1107:1131" placeholder="select sysda..dual..." />
+                    <marker date="1432738747713" expanded="true" signature="1246:1875" placeholder="INSERT INTO ..." />
+                    <marker date="1432738747713" expanded="true" signature="1279:1874" placeholder="select DIVID..Z_PREPOD_NAGRUZKA..." />
+                    <marker date="1432738747713" expanded="true" signature="1767:1791" placeholder="select sysda..dual..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="report.php" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/php/report.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="804" column="38" selection-start="33532" selection-end="33532" vertical-scroll-proportion="0.0" vertical-offset="12903" max-vertical-offset="70890">
+                  <folding>
+                    <marker date="1429683399000" expanded="true" signature="268:339" placeholder="SELECT yearn..v_study..." />
+                    <marker date="1429683399000" expanded="true" signature="401:495" placeholder="SELECT study..v_study..." />
+                    <marker date="1429683399000" expanded="true" signature="2242:2293" placeholder="Select FACNA..FACULTY..." />
+                    <marker date="1429683399000" expanded="true" signature="2709:2908" placeholder="..." />
+                    <marker date="1429683399000" expanded="true" signature="2734:2881" placeholder="..." />
+                    <marker date="1429683399000" expanded="true" signature="2745:2801" placeholder="..." />
+                    <marker date="1429683399000" expanded="true" signature="2812:2869" placeholder="..." />
+                    <marker date="1429683399000" expanded="true" signature="2972:3204" placeholder="..." />
+                    <marker date="1429683399000" expanded="true" signature="3214:9393" placeholder="..." />
+                    <marker date="1429683399000" expanded="true" signature="3257:3417" placeholder="..." />
+                    <marker date="1429683399000" expanded="true" signature="3439:3484" placeholder="..." />
+                    <marker date="1429683399000" expanded="true" signature="3506:3717" placeholder="..." />
+                    <marker date="1429683399000" expanded="true" signature="3739:4322" placeholder="..." />
+                    <marker date="1429683399000" expanded="true" signature="4344:4849" placeholder="..." />
+                    <marker date="1429683399000" expanded="true" signature="4871:5429" placeholder="..." />
+                    <marker date="1429683399000" expanded="true" signature="5451:5968" placeholder="..." />
+                    <marker date="1429683399000" expanded="true" signature="5990:6560" placeholder="..." />
+                    <marker date="1429683399000" expanded="true" signature="6582:7140" placeholder="..." />
+                    <marker date="1429683399000" expanded="true" signature="7162:7732" placeholder="..." />
+                    <marker date="1429683399000" expanded="true" signature="7754:8278" placeholder="..." />
+                    <marker date="1429683399000" expanded="true" signature="8300:8824" placeholder="..." />
+                    <marker date="1429683399000" expanded="true" signature="8846:9382" placeholder="..." />
+                    <marker date="1429683399000" expanded="true" signature="9421:9430" placeholder="..." />
+                    <marker date="1429683399000" expanded="true" signature="14203:15142" placeholder="..." />
+                    <marker date="1429683399000" expanded="true" signature="15256:17287" placeholder="..." />
+                    <marker date="1429683399000" expanded="true" signature="17385:19185" placeholder="..." />
+                    <marker date="1429683399000" expanded="true" signature="19507:19593" placeholder="SELECT DIVID..V_SPI_KAFEDR..." />
+                    <marker date="1429683399000" expanded="true" signature="19640:19793" placeholder="select SUM(G..temp_god..." />
+                    <marker date="1429683399000" expanded="true" signature="20156:20309" placeholder="select SUM(G..temp_god..." />
+                    <marker date="1429683399000" expanded="true" signature="20346:21505" placeholder="select sum(L..temp_semestr_kategor..." />
+                    <marker date="1429683399000" expanded="true" signature="48391:48913" placeholder="..." />
+                    <marker date="1429683399000" expanded="true" signature="48406:48527" placeholder="..." />
+                    <marker date="1429683399000" expanded="true" signature="48538:48788" placeholder="..." />
+                    <marker date="1429683399000" expanded="true" signature="53732:54666" placeholder="..." />
+                    <marker date="1429683399000" expanded="true" signature="54780:56815" placeholder="..." />
+                    <marker date="1429683399000" expanded="true" signature="56913:58713" placeholder="..." />
+                    <marker date="1429683399000" expanded="true" signature="58937:59023" placeholder="SELECT DIVID..V_SPI_KAFEDR..." />
+                    <marker date="1429683399000" expanded="true" signature="59282:59475" placeholder="select YEAR_..temp_semestr_kategor..." />
+                    <marker date="1429683399000" expanded="true" signature="59498:60607" placeholder="select sum(L..temp_semestr_kategor..." />
+                    <marker date="1429683399000" expanded="true" signature="74851:75358" placeholder="..." />
+                    <marker date="1429683399000" expanded="true" signature="74866:74987" placeholder="..." />
+                    <marker date="1429683399000" expanded="true" signature="74998:75248" placeholder="..." />
+                    <marker date="1429683399000" expanded="true" signature="80165:81107" placeholder="..." />
+                    <marker date="1429683399000" expanded="true" signature="81221:83255" placeholder="..." />
+                    <marker date="1429683399000" expanded="true" signature="83353:85153" placeholder="..." />
+                    <marker date="1429683399000" expanded="true" signature="85737:85930" placeholder="select YEAR_..temp_semestr_kategor..." />
+                    <marker date="1429683399000" expanded="true" signature="85953:87062" placeholder="select sum(L..temp_semestr_kategor..." />
+                    <marker date="1429683399000" expanded="true" signature="116582:117817" placeholder="select YEAR_..temp_semestr_kategor..." />
+                    <marker date="1429683399000" expanded="true" signature="132786:133096" placeholder="select YEAR_..temp_semestr_kategor..." />
+                    <marker date="1429683399000" expanded="true" signature="133325:133635" placeholder="select YEAR_..temp_semestr_kategor..." />
+                    <marker date="1429683399000" expanded="true" signature="133840:134159" placeholder="select YEAR_..temp_semestr_kategor..." />
+                    <marker date="1429683399000" expanded="true" signature="134661:135786" placeholder="select YEAR_..temp_semestr_kategor..." />
+                    <marker date="1429683399000" expanded="true" signature="143667:144210" placeholder="..." />
+                    <marker date="1429683399000" expanded="true" signature="143682:143803" placeholder="..." />
+                    <marker date="1429683399000" expanded="true" signature="143814:144064" placeholder="..." />
+                    <marker date="1429683399000" expanded="true" signature="165407:165449" placeholder="..." />
+                    <marker date="1429683399000" expanded="true" signature="165512:165755" placeholder="..." />
+                    <marker date="1429683399000" expanded="true" signature="165772:167973" placeholder="..." />
+                    <marker date="1429683399000" expanded="true" signature="165815:165992" placeholder="..." />
+                    <marker date="1429683399000" expanded="true" signature="166014:166059" placeholder="..." />
+                    <marker date="1429683399000" expanded="true" signature="166081:166291" placeholder="..." />
+                    <marker date="1429683399000" expanded="true" signature="166313:166896" placeholder="..." />
+                    <marker date="1429683399000" expanded="true" signature="166918:167423" placeholder="..." />
+                    <marker date="1429683399000" expanded="true" signature="167445:167962" placeholder="..." />
+                    <marker date="1429683399000" expanded="true" signature="169279:169365" placeholder="select divid..v_spi_kafedr..." />
+                    <marker date="1429683399000" expanded="true" signature="169535:170119" placeholder="SELECT A.SEM..SUM..." />
+                    <marker date="1429683399000" expanded="true" signature="169668:169802" placeholder="select SUM(s..temp_semestr_kategor..." />
+                    <marker date="1429683399000" expanded="true" signature="169815:169951" placeholder="select SUM(s..temp_semestr_kategor..." />
+                    <marker date="1429683399000" expanded="true" signature="169964:170116" placeholder="SELECT STAT_..Z_PREPOD_UMU..." />
+                    <marker date="1429683399000" expanded="true" signature="170175:170728" placeholder="SELECT A.SEM..SUM..." />
+                    <marker date="1429683399000" expanded="true" signature="170308:170426" placeholder="select SUM(s..temp_semestr_kategor..." />
+                    <marker date="1429683399000" expanded="true" signature="170440:170559" placeholder="select SUM(s..temp_semestr_kategor..." />
+                    <marker date="1429683399000" expanded="true" signature="170573:170725" placeholder="SELECT STAT_..Z_PREPOD_UMU..." />
+                    <marker date="1429683399000" expanded="true" signature="170785:171008" placeholder="SELECT D.STA..STAT_ID..." />
+                    <marker date="1429683399000" expanded="true" signature="170855:171005" placeholder="SELECT STAT_..Z_PREPOD_UMU..." />
+                    <marker date="1429683399000" expanded="true" signature="171063:171292" placeholder="select E.STA..STAT_ID..." />
+                    <marker date="1429683399000" expanded="true" signature="171137:171289" placeholder="SELECT STAT_..Z_PREPOD_UMU..." />
+                    <marker date="1429683399000" expanded="true" signature="171347:171570" placeholder="select F.STA..STAT_ID..." />
+                    <marker date="1429683399000" expanded="true" signature="171417:171567" placeholder="SELECT STAT_..Z_PREPOD_UMU..." />
+                    <marker date="1429683399000" expanded="true" signature="171625:171674" placeholder="SELECT NOMRM..DIVISION..." />
+                    <marker date="1429683399000" expanded="true" signature="171729:171801" placeholder="SELECT PPS F..DIVISION_PPS..." />
+                    <marker date="1429683399000" expanded="true" signature="173515:173738" placeholder="SELECT DECOD..Z_PREPOD_UMU..." />
+                    <marker date="1429683399000" expanded="true" signature="173851:174072" placeholder="SELECT DECOD..Z_PREPOD_UMU..." />
+                    <marker date="1429683399000" expanded="true" signature="174187:174417" placeholder="SELECT DECOD..Z_PREPOD_UMU..." />
+                    <marker date="1429683399000" expanded="true" signature="174533:174762" placeholder="SELECT DECOD..Z_PREPOD_UMU..." />
+                    <marker date="1429683399000" expanded="true" signature="178434:178581" placeholder="SELECT sum( ..DIVISION_PPS..." />
+                    <marker date="1429683399000" expanded="true" signature="178504:178555" placeholder="select divid..v_spi_kafedr..." />
+                    <marker date="1429683399000" expanded="true" signature="178677:178788" placeholder="SELECT sum( ..Z_PREPOD_UMU..." />
+                    <marker date="1429683399000" expanded="true" signature="178894:179002" placeholder="SELECT sum( ..Z_PREPOD_UMU..." />
+                    <marker date="1429683399000" expanded="true" signature="179106:179220" placeholder="SELECT sum( ..Z_PREPOD_UMU..." />
+                    <marker date="1429683399000" expanded="true" signature="179324:179441" placeholder="SELECT sum( ..Z_PREPOD_UMU..." />
+                    <marker date="1429683399000" expanded="true" signature="188913:189427" placeholder="SELECT STAT_..Z_PREPOD_UMU..." />
+                    <marker date="1429683399000" expanded="true" signature="194150:194731" placeholder="..." />
+                    <marker date="1429683399000" expanded="true" signature="194162:194441" placeholder="..." />
+                    <marker date="1429683399000" expanded="true" signature="194469:194621" placeholder="..." />
+                    <marker date="1429683399000" expanded="true" signature="194484:194608" placeholder="..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="return.php" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/php/return.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="14" column="2" selection-start="325" selection-end="422" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="408">
+                  <folding>
+                    <marker date="1428563007000" expanded="true" signature="184:299" placeholder="UPDATE NAGRU..." />
+                    <marker date="1428563007000" expanded="true" signature="230:254" placeholder="SELECT SYSDA..DUAL..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/index.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="4" column="22" selection-start="100" selection-end="100" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="459">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="dispetch_archiv.php" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/php/dispetch_archiv.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="23" column="2" selection-start="821" selection-end="821" vertical-scroll-proportion="0.0" vertical-offset="391" max-vertical-offset="11203">
+                  <folding>
+                    <marker date="1433145891296" expanded="true" signature="160:238" placeholder="Select upper..division..." />
+                    <marker date="1433145891296" expanded="true" signature="521:815" placeholder="select PREDM..NAGRUZKA_DISPETCH_DWH..." />
+                    <marker date="1433145891296" expanded="true" signature="25254:25641" placeholder="..." />
+                    <marker date="1433145891296" expanded="true" signature="25650:25660" placeholder="..." />
+                    <marker date="1433145891296" expanded="true" signature="25669:25679" placeholder="..." />
+                    <marker date="1433145891296" expanded="true" signature="25688:25845" placeholder="..." />
+                    <marker date="1433145891296" expanded="true" signature="25924:26598" placeholder="..." />
+                    <marker date="1433145891296" expanded="true" signature="25939:26227" placeholder="..." />
+                    <marker date="1433145891296" expanded="true" signature="26147:26211" placeholder="..." />
+                    <marker date="1433145891296" expanded="true" signature="26238:26437" placeholder="..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Win_prep.js" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/view/Win_prep.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="34" column="79" selection-start="1435" selection-end="1435" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="884">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Win2.js" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/view/Win2.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="34" column="64" selection-start="1245" selection-end="1245" vertical-scroll-proportion="0.0" vertical-offset="578" max-vertical-offset="1003">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="include.php" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/include.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="3" column="0" selection-start="76" selection-end="76" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="204">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/style.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="156" column="28" selection-start="3827" selection-end="3833" vertical-scroll-proportion="0.0" vertical-offset="2088" max-vertical-offset="2907">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="Win_Spi.js" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/view/Win_Spi.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="31" column="13" selection-start="1150" selection-end="1150" vertical-scroll-proportion="0.0" vertical-offset="527" max-vertical-offset="799">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="report1.php" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/php/report1.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="27" column="0" selection-start="590" selection-end="590" vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="67303">
+                  <folding>
+                    <marker date="1431427791000" expanded="true" signature="268:339" placeholder="SELECT yearn..v_study..." />
+                    <marker date="1431427791000" expanded="true" signature="401:495" placeholder="SELECT study..v_study..." />
+                    <marker date="1431427791000" expanded="true" signature="2238:2289" placeholder="Select FACNA..FACULTY..." />
+                    <marker date="1431427791000" expanded="true" signature="2705:2904" placeholder="..." />
+                    <marker date="1431427791000" expanded="true" signature="2730:2877" placeholder="..." />
+                    <marker date="1431427791000" expanded="true" signature="2741:2797" placeholder="..." />
+                    <marker date="1431427791000" expanded="true" signature="2808:2865" placeholder="..." />
+                    <marker date="1431427791000" expanded="true" signature="2968:3200" placeholder="..." />
+                    <marker date="1431427791000" expanded="true" signature="3210:9389" placeholder="..." />
+                    <marker date="1431427791000" expanded="true" signature="3253:3413" placeholder="..." />
+                    <marker date="1431427791000" expanded="true" signature="3435:3480" placeholder="..." />
+                    <marker date="1431427791000" expanded="true" signature="3502:3713" placeholder="..." />
+                    <marker date="1431427791000" expanded="true" signature="3735:4318" placeholder="..." />
+                    <marker date="1431427791000" expanded="true" signature="4340:4845" placeholder="..." />
+                    <marker date="1431427791000" expanded="true" signature="4867:5425" placeholder="..." />
+                    <marker date="1431427791000" expanded="true" signature="5447:5964" placeholder="..." />
+                    <marker date="1431427791000" expanded="true" signature="5986:6556" placeholder="..." />
+                    <marker date="1431427791000" expanded="true" signature="6578:7136" placeholder="..." />
+                    <marker date="1431427791000" expanded="true" signature="7158:7728" placeholder="..." />
+                    <marker date="1431427791000" expanded="true" signature="7750:8274" placeholder="..." />
+                    <marker date="1431427791000" expanded="true" signature="8296:8820" placeholder="..." />
+                    <marker date="1431427791000" expanded="true" signature="8842:9378" placeholder="..." />
+                    <marker date="1431427791000" expanded="true" signature="9417:9426" placeholder="..." />
+                    <marker date="1431427791000" expanded="true" signature="14199:15138" placeholder="..." />
+                    <marker date="1431427791000" expanded="true" signature="15252:17283" placeholder="..." />
+                    <marker date="1431427791000" expanded="true" signature="17381:19181" placeholder="..." />
+                    <marker date="1431427791000" expanded="true" signature="19404:19490" placeholder="SELECT DIVID..V_SPI_KAFEDR..." />
+                    <marker date="1431427791000" expanded="true" signature="19656:20265" placeholder="select LECTI..temp_semestr_kategor..." />
+                    <marker date="1431427791000" expanded="true" signature="24515:24634" placeholder="select sum(G..temp_god..." />
+                    <marker date="1431427791000" expanded="true" signature="34725:35247" placeholder="..." />
+                    <marker date="1431427791000" expanded="true" signature="34740:34861" placeholder="..." />
+                    <marker date="1431427791000" expanded="true" signature="34872:35122" placeholder="..." />
+                    <marker date="1431427791000" expanded="true" signature="40066:41000" placeholder="..." />
+                    <marker date="1431427791000" expanded="true" signature="41114:43149" placeholder="..." />
+                    <marker date="1431427791000" expanded="true" signature="43247:45047" placeholder="..." />
+                    <marker date="1431427791000" expanded="true" signature="45269:45355" placeholder="SELECT DIVID..V_SPI_KAFEDR..." />
+                    <marker date="1431427791000" expanded="true" signature="45521:46130" placeholder="select LECTI..temp_semestr_kategor..." />
+                    <marker date="1431427791000" expanded="true" signature="50402:50521" placeholder="select sum(G..temp_god..." />
+                    <marker date="1431427791000" expanded="true" signature="60609:61116" placeholder="..." />
+                    <marker date="1431427791000" expanded="true" signature="60624:60745" placeholder="..." />
+                    <marker date="1431427791000" expanded="true" signature="60756:61006" placeholder="..." />
+                    <marker date="1431427791000" expanded="true" signature="65925:66867" placeholder="..." />
+                    <marker date="1431427791000" expanded="true" signature="66981:69015" placeholder="..." />
+                    <marker date="1431427791000" expanded="true" signature="69113:70913" placeholder="..." />
+                    <marker date="1431427791000" expanded="true" signature="71152:71238" placeholder="SELECT DIVID..V_SPI_KAFEDR..." />
+                    <marker date="1431427791000" expanded="true" signature="71405:72014" placeholder="select LECTI..temp_semestr_kategor..." />
+                    <marker date="1431427791000" expanded="true" signature="76256:76375" placeholder="select sum(G..temp_god..." />
+                    <marker date="1431427791000" expanded="true" signature="86621:86752" placeholder="..." />
+                    <marker date="1431427791000" expanded="true" signature="86646:86725" placeholder="..." />
+                    <marker date="1431427791000" expanded="true" signature="86657:86713" placeholder="..." />
+                    <marker date="1431427791000" expanded="true" signature="86816:87079" placeholder="..." />
+                    <marker date="1431427791000" expanded="true" signature="87089:92717" placeholder="..." />
+                    <marker date="1431427791000" expanded="true" signature="87132:87292" placeholder="..." />
+                    <marker date="1431427791000" expanded="true" signature="87314:87359" placeholder="..." />
+                    <marker date="1431427791000" expanded="true" signature="87381:87591" placeholder="..." />
+                    <marker date="1431427791000" expanded="true" signature="87613:88180" placeholder="..." />
+                    <marker date="1431427791000" expanded="true" signature="88202:88707" placeholder="..." />
+                    <marker date="1431427791000" expanded="true" signature="88729:89287" placeholder="..." />
+                    <marker date="1431427791000" expanded="true" signature="89309:89826" placeholder="..." />
+                    <marker date="1431427791000" expanded="true" signature="89848:90418" placeholder="..." />
+                    <marker date="1431427791000" expanded="true" signature="90440:90998" placeholder="..." />
+                    <marker date="1431427791000" expanded="true" signature="91020:91590" placeholder="..." />
+                    <marker date="1431427791000" expanded="true" signature="91612:92136" placeholder="..." />
+                    <marker date="1431427791000" expanded="true" signature="92158:92706" placeholder="..." />
+                    <marker date="1431427791000" expanded="true" signature="101684:102919" placeholder="select YEAR_..temp_semestr_kategor..." />
+                    <marker date="1431427791000" expanded="true" signature="117369:117675" placeholder="select YEAR_..temp_semestr_kategor..." />
+                    <marker date="1431427791000" expanded="true" signature="117898:118208" placeholder="select YEAR_..temp_semestr_kategor..." />
+                    <marker date="1431427791000" expanded="true" signature="118432:118742" placeholder="select YEAR_..temp_semestr_kategor..." />
+                    <marker date="1431427791000" expanded="true" signature="118947:119266" placeholder="select YEAR_..temp_semestr_kategor..." />
+                    <marker date="1431427791000" expanded="true" signature="119466:119687" placeholder="select YEAR_..temp_semestr_kategor..." />
+                    <marker date="1431427791000" expanded="true" signature="119752:120877" placeholder="select YEAR_..temp_semestr_kategor..." />
+                    <marker date="1431427791000" expanded="true" signature="128748:129291" placeholder="..." />
+                    <marker date="1431427791000" expanded="true" signature="128763:128884" placeholder="..." />
+                    <marker date="1431427791000" expanded="true" signature="128895:129145" placeholder="..." />
+                    <marker date="1431427791000" expanded="true" signature="140449:141604" placeholder="select sum(L..temp_GOD..." />
+                    <marker date="1431427791000" expanded="true" signature="150497:150539" placeholder="..." />
+                    <marker date="1431427791000" expanded="true" signature="150602:150845" placeholder="..." />
+                    <marker date="1431427791000" expanded="true" signature="150862:153063" placeholder="..." />
+                    <marker date="1431427791000" expanded="true" signature="150905:151082" placeholder="..." />
+                    <marker date="1431427791000" expanded="true" signature="151104:151149" placeholder="..." />
+                    <marker date="1431427791000" expanded="true" signature="151171:151381" placeholder="..." />
+                    <marker date="1431427791000" expanded="true" signature="151403:151986" placeholder="..." />
+                    <marker date="1431427791000" expanded="true" signature="152008:152513" placeholder="..." />
+                    <marker date="1431427791000" expanded="true" signature="152535:153052" placeholder="..." />
+                    <marker date="1431427791000" expanded="true" signature="154385:154471" placeholder="select divid..v_spi_kafedr..." />
+                    <marker date="1431427791000" expanded="true" signature="154661:155245" placeholder="SELECT A.SEM..SUM..." />
+                    <marker date="1431427791000" expanded="true" signature="154794:154928" placeholder="select SUM(s..temp_semestr_kategor..." />
+                    <marker date="1431427791000" expanded="true" signature="154941:155077" placeholder="select SUM(s..temp_semestr_kategor..." />
+                    <marker date="1431427791000" expanded="true" signature="155090:155242" placeholder="SELECT STAT_..Z_PREPOD_UMU..." />
+                    <marker date="1431427791000" expanded="true" signature="155309:155862" placeholder="SELECT A.SEM..SUM..." />
+                    <marker date="1431427791000" expanded="true" signature="155442:155560" placeholder="select SUM(s..temp_semestr_kategor..." />
+                    <marker date="1431427791000" expanded="true" signature="155574:155693" placeholder="select SUM(s..temp_semestr_kategor..." />
+                    <marker date="1431427791000" expanded="true" signature="155707:155859" placeholder="SELECT STAT_..Z_PREPOD_UMU..." />
+                    <marker date="1431427791000" expanded="true" signature="155927:156150" placeholder="SELECT D.STA..STAT_ID..." />
+                    <marker date="1431427791000" expanded="true" signature="155997:156147" placeholder="SELECT STAT_..Z_PREPOD_UMU..." />
+                    <marker date="1431427791000" expanded="true" signature="156213:156442" placeholder="select E.STA..STAT_ID..." />
+                    <marker date="1431427791000" expanded="true" signature="156287:156439" placeholder="SELECT STAT_..Z_PREPOD_UMU..." />
+                    <marker date="1431427791000" expanded="true" signature="156505:156728" placeholder="select F.STA..STAT_ID..." />
+                    <marker date="1431427791000" expanded="true" signature="156575:156725" placeholder="SELECT STAT_..Z_PREPOD_UMU..." />
+                    <marker date="1431427791000" expanded="true" signature="156791:156840" placeholder="SELECT NOMRM..DIVISION..." />
+                    <marker date="1431427791000" expanded="true" signature="156903:156975" placeholder="SELECT PPS F..DIVISION_PPS..." />
+                    <marker date="1431427791000" expanded="true" signature="158829:159052" placeholder="SELECT DECOD..Z_PREPOD_UMU..." />
+                    <marker date="1431427791000" expanded="true" signature="159177:159398" placeholder="SELECT DECOD..Z_PREPOD_UMU..." />
+                    <marker date="1431427791000" expanded="true" signature="159525:159755" placeholder="SELECT DECOD..Z_PREPOD_UMU..." />
+                    <marker date="1431427791000" expanded="true" signature="159883:160112" placeholder="SELECT DECOD..Z_PREPOD_UMU..." />
+                    <marker date="1431427791000" expanded="true" signature="163892:164039" placeholder="SELECT sum( ..DIVISION_PPS..." />
+                    <marker date="1431427791000" expanded="true" signature="163962:164013" placeholder="select divid..v_spi_kafedr..." />
+                    <marker date="1431427791000" expanded="true" signature="164147:164258" placeholder="SELECT sum( ..Z_PREPOD_UMU..." />
+                    <marker date="1431427791000" expanded="true" signature="164376:164484" placeholder="SELECT sum( ..Z_PREPOD_UMU..." />
+                    <marker date="1431427791000" expanded="true" signature="164600:164714" placeholder="SELECT sum( ..Z_PREPOD_UMU..." />
+                    <marker date="1431427791000" expanded="true" signature="164830:164947" placeholder="SELECT sum( ..Z_PREPOD_UMU..." />
+                    <marker date="1431427791000" expanded="true" signature="174452:174966" placeholder="SELECT STAT_..Z_PREPOD_UMU..." />
+                    <marker date="1431427791000" expanded="true" signature="179689:180270" placeholder="..." />
+                    <marker date="1431427791000" expanded="true" signature="179701:179980" placeholder="..." />
+                    <marker date="1431427791000" expanded="true" signature="180008:180160" placeholder="..." />
+                    <marker date="1431427791000" expanded="true" signature="180023:180147" placeholder="..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="excel_nagruzka.php" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/php/excel_nagruzka.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="11" column="60" selection-start="297" selection-end="297" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="80189">
+                  <folding>
+                    <marker date="1431601916395" expanded="true" signature="566:635" placeholder="SELECT divab..v_spi_kafedr..." />
+                    <marker date="1431601916395" expanded="true" signature="746:842" placeholder="SELECT yearn..v_study..." />
+                    <marker date="1431601916395" expanded="true" signature="912:1005" placeholder="SELECT study..v_study..." />
+                    <marker date="1431601916395" expanded="true" signature="1328:15741" placeholder="..." />
+                    <marker date="1431601916395" expanded="true" signature="1602:1678" placeholder="..." />
+                    <marker date="1431601916395" expanded="true" signature="1752:1883" placeholder="..." />
+                    <marker date="1431601916395" expanded="true" signature="1777:1856" placeholder="..." />
+                    <marker date="1431601916395" expanded="true" signature="1788:1844" placeholder="..." />
+                    <marker date="1431601916395" expanded="true" signature="1947:2109" placeholder="..." />
+                    <marker date="1431601916395" expanded="true" signature="2119:15741" placeholder="..." />
+                    <marker date="1431601916395" expanded="true" signature="2162:2322" placeholder="..." />
+                    <marker date="1431601916395" expanded="true" signature="2350:2898" placeholder="..." />
+                    <marker date="1431601916395" expanded="true" signature="2926:3474" placeholder="..." />
+                    <marker date="1431601916395" expanded="true" signature="3502:4050" placeholder="..." />
+                    <marker date="1431601916395" expanded="true" signature="4078:4626" placeholder="..." />
+                    <marker date="1431601916395" expanded="true" signature="4654:5202" placeholder="..." />
+                    <marker date="1431601916395" expanded="true" signature="5230:5778" placeholder="..." />
+                    <marker date="1431601916395" expanded="true" signature="5806:6354" placeholder="..." />
+                    <marker date="1431601916395" expanded="true" signature="6382:6930" placeholder="..." />
+                    <marker date="1431601916395" expanded="true" signature="6958:7506" placeholder="..." />
+                    <marker date="1431601916395" expanded="true" signature="7534:8082" placeholder="..." />
+                    <marker date="1431601916395" expanded="true" signature="8104:8149" placeholder="..." />
+                    <marker date="1431601916395" expanded="true" signature="8171:8381" placeholder="..." />
+                    <marker date="1431601916395" expanded="true" signature="8403:8986" placeholder="..." />
+                    <marker date="1431601916395" expanded="true" signature="9008:9513" placeholder="..." />
+                    <marker date="1431601916395" expanded="true" signature="9535:10093" placeholder="..." />
+                    <marker date="1431601916395" expanded="true" signature="10115:10632" placeholder="..." />
+                    <marker date="1431601916395" expanded="true" signature="10654:11224" placeholder="..." />
+                    <marker date="1431601916395" expanded="true" signature="11246:11804" placeholder="..." />
+                    <marker date="1431601916395" expanded="true" signature="11826:12396" placeholder="..." />
+                    <marker date="1431601916395" expanded="true" signature="12418:13011" placeholder="..." />
+                    <marker date="1431601916395" expanded="true" signature="13033:13557" placeholder="..." />
+                    <marker date="1431601916395" expanded="true" signature="13579:13782" placeholder="..." />
+                    <marker date="1431601916395" expanded="true" signature="13804:14371" placeholder="..." />
+                    <marker date="1431601916395" expanded="true" signature="14393:14574" placeholder="..." />
+                    <marker date="1431601916395" expanded="true" signature="14596:15160" placeholder="..." />
+                    <marker date="1431601916395" expanded="true" signature="15182:15730" placeholder="..." />
+                    <marker date="1431601916395" expanded="true" signature="15759:16390" placeholder="SELECT FIO||..TEMP_PREPOD_NAGRUZKA..." />
+                    <marker date="1431601916395" expanded="true" signature="16429:17052" placeholder="SELECT FIO||..TEMP_PREPOD_NAGRUZKA..." />
+                    <marker date="1431601916395" expanded="true" signature="17111:18208" placeholder="SELECT sum(L..temp_semestr_kategor..." />
+                    <marker date="1431601916395" expanded="true" signature="18251:18882" placeholder="SELECT FIO||..TEMP_PREPOD_NAGRUZKA..." />
+                    <marker date="1431601916395" expanded="true" signature="18923:19554" placeholder="SELECT FIO||..TEMP_PREPOD_NAGRUZKA..." />
+                    <marker date="1431601916395" expanded="true" signature="19595:20690" placeholder="SELECT sum(L..temp_semestr_kategor..." />
+                    <marker date="1431601916395" expanded="true" signature="20731:21826" placeholder="SELECT sum(L..temp_semestr_kategor..." />
+                    <marker date="1431601916395" expanded="true" signature="36286:36396" placeholder="..." />
+                    <marker date="1431601916395" expanded="true" signature="60819:60930" placeholder="..." />
+                    <marker date="1431601916395" expanded="true" signature="66800:66960" placeholder="SELECT sum(S..temp_semestr_kategor..." />
+                    <marker date="1431601916395" expanded="true" signature="77959:78601" placeholder="SELECT FIO||..TEMP_PREPOD_NAGRUZKA..." />
+                    <marker date="1431601916395" expanded="true" signature="78640:79738" placeholder="SELECT sum(L..temp_semestr_kategor..." />
+                    <marker date="1431601916395" expanded="true" signature="79781:80423" placeholder="SELECT FIO||..TEMP_PREPOD_NAGRUZKA..." />
+                    <marker date="1431601916395" expanded="true" signature="80464:81558" placeholder="SELECT sum(L..temp_semestr_kategor..." />
+                    <marker date="1431601916395" expanded="true" signature="81599:82695" placeholder="SELECT sum(L..temp_semestr_kategor..." />
+                    <marker date="1431601916395" expanded="true" signature="116134:116294" placeholder="SELECT sum(S..temp_semestr_kategor..." />
+                    <marker date="1431601916395" expanded="true" signature="127235:127884" placeholder="SELECT FIO||..TEMP_PREPOD_NAGRUZKA..." />
+                    <marker date="1431601916395" expanded="true" signature="127923:129021" placeholder="SELECT sum(L..temp_semestr_kategor..." />
+                    <marker date="1431601916395" expanded="true" signature="129064:129712" placeholder="SELECT FIO||..TEMP_PREPOD_NAGRUZKA..." />
+                    <marker date="1431601916395" expanded="true" signature="129753:130849" placeholder="SELECT sum(L..temp_semestr_kategor..." />
+                    <marker date="1431601916395" expanded="true" signature="130890:131986" placeholder="SELECT sum(L..temp_semestr_kategor..." />
+                    <marker date="1431601916395" expanded="true" signature="165439:165599" placeholder="SELECT sum(S..temp_semestr_kategor..." />
+                    <marker date="1431601916395" expanded="true" signature="176535:177693" placeholder="SELECT sum(L..temp_semestr_kategor..." />
+                    <marker date="1431601916395" expanded="true" signature="177732:178830" placeholder="SELECT sum(L..temp_semestr_kategor..." />
+                    <marker date="1431601916395" expanded="true" signature="178871:179970" placeholder="SELECT sum(L..temp_semestr_kategor..." />
+                    <marker date="1431601916395" expanded="true" signature="180011:181093" placeholder="SELECT sum(L..temp_semestr_kategor..." />
+                    <marker date="1431601916395" expanded="true" signature="181136:182294" placeholder="SELECT sum(L..temp_semestr_kategor..." />
+                    <marker date="1431601916395" expanded="true" signature="182335:183434" placeholder="SELECT sum(L..temp_semestr_kategor..." />
+                    <marker date="1431601916395" expanded="true" signature="183475:184574" placeholder="SELECT sum(L..temp_semestr_kategor..." />
+                    <marker date="1431601916395" expanded="true" signature="184615:185697" placeholder="SELECT sum(L..temp_semestr_kategor..." />
+                    <marker date="1431601916395" expanded="true" signature="185738:186820" placeholder="SELECT sum(L..temp_semestr_kategor..." />
+                    <marker date="1431601916395" expanded="true" signature="222140:222294" placeholder="SELECT sum(S..temp_semestr_kategor..." />
+                    <marker date="1431601916395" expanded="true" signature="227060:227214" placeholder="SELECT sum(S..temp_semestr_kategor..." />
+                    <marker date="1431601916395" expanded="true" signature="231984:232138" placeholder="SELECT sum(S..temp_semestr_kategor..." />
+                    <marker date="1431601916395" expanded="true" signature="236909:237048" placeholder="SELECT sum(S..temp_semestr_kategor..." />
+                    <marker date="1431601916395" expanded="true" signature="264377:264906" placeholder="..." />
+                    <marker date="1431601916395" expanded="true" signature="264392:264513" placeholder="..." />
+                    <marker date="1431601916395" expanded="true" signature="264524:264796" placeholder="..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="ListSpiSt.js" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/store/ListSpiSt.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="5" column="28" selection-start="133" selection-end="133" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="357">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="ListGroSt.js" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/store/ListGroSt.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="ListGridWinSt.js" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/store/ListGridWinSt.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="0" column="0" selection-start="0" selection-end="290" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="ListSpiM.js" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/model/ListSpiM.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="5" column="32" selection-start="133" selection-end="136" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="204">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="get_spi_prep.php" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/php/get_spi_prep.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="4" column="0" selection-start="60" selection-end="348" vertical-scroll-proportion="0.097841725" vertical-offset="0" max-vertical-offset="695">
+                  <folding>
+                    <marker date="1434458898742" expanded="true" signature="68:345" placeholder="SELECT initc..V_SPI_PREPOD_NAGRUZKA..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Viewport.js" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/view/Viewport.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="79" column="27" selection-start="2635" selection-end="2635" vertical-scroll-proportion="0.0" vertical-offset="825" max-vertical-offset="1700">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="nagruzka_archiv.php" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/php/nagruzka_archiv.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="204">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/php/get_group.php" />
+        <option value="$PROJECT_DIR$/app/store/ListSubSt.js" />
+        <option value="$PROJECT_DIR$/app/model/ListFacSt.js" />
+        <option value="$PROJECT_DIR$/app/model/ListFacM.js" />
+        <option value="$PROJECT_DIR$/php/get_faculty.php" />
+        <option value="$PROJECT_DIR$/app/model/ListStudyM.js" />
+        <option value="$PROJECT_DIR$/app/store/ListFacSt.js" />
+        <option value="$PROJECT_DIR$/app/store/ListStudySt.js" />
+        <option value="$PROJECT_DIR$/app/view/win1.js" />
+        <option value="$PROJECT_DIR$/app/view/win2.js" />
+        <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/app/model/ListGridWindowM.js" />
+        <option value="$PROJECT_DIR$/app/store/ListGridSt.js" />
+        <option value="$PROJECT_DIR$/app/store/ListGridWindowSt.js" />
+        <option value="$PROJECT_DIR$/app/model/ListGridM.js" />
+        <option value="$PROJECT_DIR$/app/store/ListGridWinSt.js" />
+        <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/app/model/ListSpiM.js" />
+        <option value="$PROJECT_DIR$/app/store/ListSpiSt.js" />
+        <option value="$PROJECT_DIR$/app/view/Win1.js" />
+        <option value="$PROJECT_DIR$/app/view/Win2.js" />
+        <option value="$PROJECT_DIR$/app/model/ListGridWinM.js" />
+        <option value="$PROJECT_DIR$/php/get_grid_window.php" />
+        <option value="$PROJECT_DIR$/php/open.php" />
+        <option value="$PROJECT_DIR$/app/store/ListButtSt.js" />
+        <option value="$PROJECT_DIR$/php/search.php" />
+        <option value="$PROJECT_DIR$/php/dispech1.php" />
+        <option value="$PROJECT_DIR$/php/get_study.php" />
+        <option value="$PROJECT_DIR$/php/dispech.php" />
+        <option value="$PROJECT_DIR$/php/return.php" />
+        <option value="$PROJECT_DIR$/php/get_grid.php" />
+        <option value="$PROJECT_DIR$/app/view/Viewport.js" />
+        <option value="$PROJECT_DIR$/app/view/Win3.js" />
+        <option value="$PROJECT_DIR$/app/view/GridStud.js" />
+        <option value="$PROJECT_DIR$/php/search1.php" />
+        <option value="$PROJECT_DIR$/php/report.php" />
+        <option value="$PROJECT_DIR$/php/search3.php" />
+        <option value="$PROJECT_DIR$/php/excel_nagruzka_archive.php" />
+        <option value="$PROJECT_DIR$/php/report1.php" />
+        <option value="$PROJECT_DIR$/app/controller/Users.js" />
+        <option value="$PROJECT_DIR$/php/excel_nagruzka.php" />
+        <option value="$PROJECT_DIR$/app/view/Win_Spi.js" />
+        <option value="$PROJECT_DIR$/php/close.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/php/dispetch_archiv.php" />
+        <option value="$PROJECT_DIR$/app/view/Win_prep.js" />
+        <option value="$PROJECT_DIR$/include.php" />
+        <option value="$PROJECT_DIR$/php/get_spi_prep.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nagruzka" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nagruzka" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nagruzka" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nagruzka" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nagruzka" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nagruzka" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nagruzka" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="view" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nagruzka" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nagruzka" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="store" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nagruzka" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nagruzka" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="model" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nagruzka" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nagruzka" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controller" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="LayoutCode.rearrangeEntriesJavaScript" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="LayoutCode.rearrangeEntriesPHP" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../111" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\projects\nagruzka\php" />
+      <recent name="D:\projects\nagruzka\app\view" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\projects\nagruzka\php" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server" server_id="7f14aca2-4bf2-47b1-8e63-9b2265b41960" server_name="nagruzka">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28e9b497-0730-4411-9ec9-38bbdca1e373" name="Default" comment="" />
+      <created>1418133766651</created>
+      <updated>1418133766651</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13318536" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21512248" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15495208" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18353726" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32814237" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25669643" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15495208" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18353726" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18423855" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/php/search.php</url>
+          <line>192</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="9" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/php/excel_nagruzka_archive.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="146" selection-end="316" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="80138" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/model/ListFacM.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="3" selection-start="97" selection-end="97" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="153" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/get_study.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="40" selection-start="180" selection-end="190" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="306" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controller/Users.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="246" selection-end="246" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="289" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/store/ListStudySt.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/store/ListFacSt.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/Viewport.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="54" column="24" selection-start="1929" selection-end="1929" vertical-scroll-proportion="0.0" vertical-offset="561" max-vertical-offset="1292" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/GridStud.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="0" selection-start="163" selection-end="163" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="1020" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="3" selection-start="53" selection-end="53" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="272" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/model/ListStudyM.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="153" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/store/ListStudySt.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="9" selection-start="270" selection-end="270" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/model/ListGridWinM.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="20" selection-start="321" selection-end="325" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="817" column="9" selection-start="24293" selection-end="24293" vertical-scroll-proportion="0.2420307" vertical-offset="13684" max-vertical-offset="19142" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/model/ListStudyM.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="47" selection-start="113" selection-end="113" vertical-scroll-proportion="0.040865384" vertical-offset="0" max-vertical-offset="832" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/store/ListGridSt.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="26" selection-start="174" selection-end="182" vertical-scroll-proportion="0.14488636" vertical-offset="0" max-vertical-offset="704" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/open.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="143" selection-end="143" vertical-scroll-proportion="0.23757765" vertical-offset="0" max-vertical-offset="644" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/model/ListFacM.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="3" selection-start="97" selection-end="97" vertical-scroll-proportion="0.074235804" vertical-offset="0" max-vertical-offset="687" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/get_grid_window.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="0" selection-start="916" selection-end="916" vertical-scroll-proportion="0.5336323" vertical-offset="0" max-vertical-offset="669" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/store/ListButtSt.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="50" selection-start="254" selection-end="254" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/get_faculty.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="2" selection-start="386" selection-end="386" vertical-scroll-proportion="0.33116883" vertical-offset="0" max-vertical-offset="616" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/store/ListFacSt.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="278" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="642" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/get_study.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="18" selection-start="289" selection-end="289" vertical-scroll-proportion="0.2847571" vertical-offset="0" max-vertical-offset="597" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/get_grid.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="79" selection-start="178" selection-end="178" vertical-scroll-proportion="0.18613139" vertical-offset="0" max-vertical-offset="548" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/Win1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="26" selection-start="696" selection-end="696" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="782" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/Win3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="33" selection-start="841" selection-end="850" vertical-scroll-proportion="0.5135135" vertical-offset="68" max-vertical-offset="697" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/GridStud.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="44" selection-start="1823" selection-end="1855" vertical-scroll-proportion="0.0" vertical-offset="174" max-vertical-offset="1173" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/search.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="192" column="0" selection-start="5856" selection-end="5856" vertical-scroll-proportion="0.44894367" vertical-offset="3009" max-vertical-offset="3859">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="156" column="28" selection-start="3827" selection-end="3833" vertical-scroll-proportion="0.0" vertical-offset="2088" max-vertical-offset="2907">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/dispech.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="332" column="50" selection-start="0" selection-end="48064" vertical-scroll-proportion="0.0" vertical-offset="5346" max-vertical-offset="18870" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/model/ListGridM.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="115" selection-start="180" selection-end="180" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="153" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/Win2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="64" selection-start="1245" selection-end="1245" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="969">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/report.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="804" column="38" selection-start="33532" selection-end="33532" vertical-scroll-proportion="0.0" vertical-offset="12903" max-vertical-offset="70890">
+          <folding>
+            <marker date="1429683399000" expanded="true" signature="268:339" placeholder="SELECT yearn..v_study..." />
+            <marker date="1429683399000" expanded="true" signature="401:495" placeholder="SELECT study..v_study..." />
+            <marker date="1429683399000" expanded="true" signature="2242:2293" placeholder="Select FACNA..FACULTY..." />
+            <marker date="1429683399000" expanded="true" signature="2709:2908" placeholder="..." />
+            <marker date="1429683399000" expanded="true" signature="2734:2881" placeholder="..." />
+            <marker date="1429683399000" expanded="true" signature="2745:2801" placeholder="..." />
+            <marker date="1429683399000" expanded="true" signature="2812:2869" placeholder="..." />
+            <marker date="1429683399000" expanded="true" signature="2972:3204" placeholder="..." />
+            <marker date="1429683399000" expanded="true" signature="3214:9393" placeholder="..." />
+            <marker date="1429683399000" expanded="true" signature="3257:3417" placeholder="..." />
+            <marker date="1429683399000" expanded="true" signature="3439:3484" placeholder="..." />
+            <marker date="1429683399000" expanded="true" signature="3506:3717" placeholder="..." />
+            <marker date="1429683399000" expanded="true" signature="3739:4322" placeholder="..." />
+            <marker date="1429683399000" expanded="true" signature="4344:4849" placeholder="..." />
+            <marker date="1429683399000" expanded="true" signature="4871:5429" placeholder="..." />
+            <marker date="1429683399000" expanded="true" signature="5451:5968" placeholder="..." />
+            <marker date="1429683399000" expanded="true" signature="5990:6560" placeholder="..." />
+            <marker date="1429683399000" expanded="true" signature="6582:7140" placeholder="..." />
+            <marker date="1429683399000" expanded="true" signature="7162:7732" placeholder="..." />
+            <marker date="1429683399000" expanded="true" signature="7754:8278" placeholder="..." />
+            <marker date="1429683399000" expanded="true" signature="8300:8824" placeholder="..." />
+            <marker date="1429683399000" expanded="true" signature="8846:9382" placeholder="..." />
+            <marker date="1429683399000" expanded="true" signature="9421:9430" placeholder="..." />
+            <marker date="1429683399000" expanded="true" signature="14203:15142" placeholder="..." />
+            <marker date="1429683399000" expanded="true" signature="15256:17287" placeholder="..." />
+            <marker date="1429683399000" expanded="true" signature="17385:19185" placeholder="..." />
+            <marker date="1429683399000" expanded="true" signature="19507:19593" placeholder="SELECT DIVID..V_SPI_KAFEDR..." />
+            <marker date="1429683399000" expanded="true" signature="19640:19793" placeholder="select SUM(G..temp_god..." />
+            <marker date="1429683399000" expanded="true" signature="20156:20309" placeholder="select SUM(G..temp_god..." />
+            <marker date="1429683399000" expanded="true" signature="20346:21505" placeholder="select sum(L..temp_semestr_kategor..." />
+            <marker date="1429683399000" expanded="true" signature="48391:48913" placeholder="..." />
+            <marker date="1429683399000" expanded="true" signature="48406:48527" placeholder="..." />
+            <marker date="1429683399000" expanded="true" signature="48538:48788" placeholder="..." />
+            <marker date="1429683399000" expanded="true" signature="53732:54666" placeholder="..." />
+            <marker date="1429683399000" expanded="true" signature="54780:56815" placeholder="..." />
+            <marker date="1429683399000" expanded="true" signature="56913:58713" placeholder="..." />
+            <marker date="1429683399000" expanded="true" signature="58937:59023" placeholder="SELECT DIVID..V_SPI_KAFEDR..." />
+            <marker date="1429683399000" expanded="true" signature="59282:59475" placeholder="select YEAR_..temp_semestr_kategor..." />
+            <marker date="1429683399000" expanded="true" signature="59498:60607" placeholder="select sum(L..temp_semestr_kategor..." />
+            <marker date="1429683399000" expanded="true" signature="74851:75358" placeholder="..." />
+            <marker date="1429683399000" expanded="true" signature="74866:74987" placeholder="..." />
+            <marker date="1429683399000" expanded="true" signature="74998:75248" placeholder="..." />
+            <marker date="1429683399000" expanded="true" signature="80165:81107" placeholder="..." />
+            <marker date="1429683399000" expanded="true" signature="81221:83255" placeholder="..." />
+            <marker date="1429683399000" expanded="true" signature="83353:85153" placeholder="..." />
+            <marker date="1429683399000" expanded="true" signature="85737:85930" placeholder="select YEAR_..temp_semestr_kategor..." />
+            <marker date="1429683399000" expanded="true" signature="85953:87062" placeholder="select sum(L..temp_semestr_kategor..." />
+            <marker date="1429683399000" expanded="true" signature="116582:117817" placeholder="select YEAR_..temp_semestr_kategor..." />
+            <marker date="1429683399000" expanded="true" signature="132786:133096" placeholder="select YEAR_..temp_semestr_kategor..." />
+            <marker date="1429683399000" expanded="true" signature="133325:133635" placeholder="select YEAR_..temp_semestr_kategor..." />
+            <marker date="1429683399000" expanded="true" signature="133840:134159" placeholder="select YEAR_..temp_semestr_kategor..." />
+            <marker date="1429683399000" expanded="true" signature="134661:135786" placeholder="select YEAR_..temp_semestr_kategor..." />
+            <marker date="1429683399000" expanded="true" signature="143667:144210" placeholder="..." />
+            <marker date="1429683399000" expanded="true" signature="143682:143803" placeholder="..." />
+            <marker date="1429683399000" expanded="true" signature="143814:144064" placeholder="..." />
+            <marker date="1429683399000" expanded="true" signature="165407:165449" placeholder="..." />
+            <marker date="1429683399000" expanded="true" signature="165512:165755" placeholder="..." />
+            <marker date="1429683399000" expanded="true" signature="165772:167973" placeholder="..." />
+            <marker date="1429683399000" expanded="true" signature="165815:165992" placeholder="..." />
+            <marker date="1429683399000" expanded="true" signature="166014:166059" placeholder="..." />
+            <marker date="1429683399000" expanded="true" signature="166081:166291" placeholder="..." />
+            <marker date="1429683399000" expanded="true" signature="166313:166896" placeholder="..." />
+            <marker date="1429683399000" expanded="true" signature="166918:167423" placeholder="..." />
+            <marker date="1429683399000" expanded="true" signature="167445:167962" placeholder="..." />
+            <marker date="1429683399000" expanded="true" signature="169279:169365" placeholder="select divid..v_spi_kafedr..." />
+            <marker date="1429683399000" expanded="true" signature="169535:170119" placeholder="SELECT A.SEM..SUM..." />
+            <marker date="1429683399000" expanded="true" signature="169668:169802" placeholder="select SUM(s..temp_semestr_kategor..." />
+            <marker date="1429683399000" expanded="true" signature="169815:169951" placeholder="select SUM(s..temp_semestr_kategor..." />
+            <marker date="1429683399000" expanded="true" signature="169964:170116" placeholder="SELECT STAT_..Z_PREPOD_UMU..." />
+            <marker date="1429683399000" expanded="true" signature="170175:170728" placeholder="SELECT A.SEM..SUM..." />
+            <marker date="1429683399000" expanded="true" signature="170308:170426" placeholder="select SUM(s..temp_semestr_kategor..." />
+            <marker date="1429683399000" expanded="true" signature="170440:170559" placeholder="select SUM(s..temp_semestr_kategor..." />
+            <marker date="1429683399000" expanded="true" signature="170573:170725" placeholder="SELECT STAT_..Z_PREPOD_UMU..." />
+            <marker date="1429683399000" expanded="true" signature="170785:171008" placeholder="SELECT D.STA..STAT_ID..." />
+            <marker date="1429683399000" expanded="true" signature="170855:171005" placeholder="SELECT STAT_..Z_PREPOD_UMU..." />
+            <marker date="1429683399000" expanded="true" signature="171063:171292" placeholder="select E.STA..STAT_ID..." />
+            <marker date="1429683399000" expanded="true" signature="171137:171289" placeholder="SELECT STAT_..Z_PREPOD_UMU..." />
+            <marker date="1429683399000" expanded="true" signature="171347:171570" placeholder="select F.STA..STAT_ID..." />
+            <marker date="1429683399000" expanded="true" signature="171417:171567" placeholder="SELECT STAT_..Z_PREPOD_UMU..." />
+            <marker date="1429683399000" expanded="true" signature="171625:171674" placeholder="SELECT NOMRM..DIVISION..." />
+            <marker date="1429683399000" expanded="true" signature="171729:171801" placeholder="SELECT PPS F..DIVISION_PPS..." />
+            <marker date="1429683399000" expanded="true" signature="173515:173738" placeholder="SELECT DECOD..Z_PREPOD_UMU..." />
+            <marker date="1429683399000" expanded="true" signature="173851:174072" placeholder="SELECT DECOD..Z_PREPOD_UMU..." />
+            <marker date="1429683399000" expanded="true" signature="174187:174417" placeholder="SELECT DECOD..Z_PREPOD_UMU..." />
+            <marker date="1429683399000" expanded="true" signature="174533:174762" placeholder="SELECT DECOD..Z_PREPOD_UMU..." />
+            <marker date="1429683399000" expanded="true" signature="178434:178581" placeholder="SELECT sum( ..DIVISION_PPS..." />
+            <marker date="1429683399000" expanded="true" signature="178504:178555" placeholder="select divid..v_spi_kafedr..." />
+            <marker date="1429683399000" expanded="true" signature="178677:178788" placeholder="SELECT sum( ..Z_PREPOD_UMU..." />
+            <marker date="1429683399000" expanded="true" signature="178894:179002" placeholder="SELECT sum( ..Z_PREPOD_UMU..." />
+            <marker date="1429683399000" expanded="true" signature="179106:179220" placeholder="SELECT sum( ..Z_PREPOD_UMU..." />
+            <marker date="1429683399000" expanded="true" signature="179324:179441" placeholder="SELECT sum( ..Z_PREPOD_UMU..." />
+            <marker date="1429683399000" expanded="true" signature="188913:189427" placeholder="SELECT STAT_..Z_PREPOD_UMU..." />
+            <marker date="1429683399000" expanded="true" signature="194150:194731" placeholder="..." />
+            <marker date="1429683399000" expanded="true" signature="194162:194441" placeholder="..." />
+            <marker date="1429683399000" expanded="true" signature="194469:194621" placeholder="..." />
+            <marker date="1429683399000" expanded="true" signature="194484:194608" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/return.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="2" selection-start="325" selection-end="422" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="408">
+          <folding>
+            <marker date="1428563007000" expanded="true" signature="184:299" placeholder="UPDATE NAGRU..." />
+            <marker date="1428563007000" expanded="true" signature="230:254" placeholder="SELECT SYSDA..DUAL..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="22" selection-start="100" selection-end="100" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="459">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/close.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="40" selection-start="701" selection-end="722" vertical-scroll-proportion="0.0" vertical-offset="166" max-vertical-offset="1071">
+          <folding>
+            <marker date="1432738747713" expanded="true" signature="200:315" placeholder="UPDATE NAGRU..." />
+            <marker date="1432738747713" expanded="true" signature="246:270" placeholder="SELECT SYSDA..DUAL..." />
+            <marker date="1432738747713" expanded="true" signature="471:546" placeholder="delete from ..." />
+            <marker date="1432738747713" expanded="true" signature="582:655" placeholder="delete from ..." />
+            <marker date="1432738747713" expanded="true" signature="689:1217" placeholder="INSERT INTO ..." />
+            <marker date="1432738747713" expanded="true" signature="724:1216" placeholder="select NAGID..Z_DISPETCH_NAGRUZKA..." />
+            <marker date="1432738747713" expanded="true" signature="1107:1131" placeholder="select sysda..dual..." />
+            <marker date="1432738747713" expanded="true" signature="1246:1875" placeholder="INSERT INTO ..." />
+            <marker date="1432738747713" expanded="true" signature="1279:1874" placeholder="select DIVID..Z_PREPOD_NAGRUZKA..." />
+            <marker date="1432738747713" expanded="true" signature="1767:1791" placeholder="select sysda..dual..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/excel_nagruzka.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="60" selection-start="297" selection-end="297" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="80189">
+          <folding>
+            <marker date="1431601916395" expanded="true" signature="566:635" placeholder="SELECT divab..v_spi_kafedr..." />
+            <marker date="1431601916395" expanded="true" signature="746:842" placeholder="SELECT yearn..v_study..." />
+            <marker date="1431601916395" expanded="true" signature="912:1005" placeholder="SELECT study..v_study..." />
+            <marker date="1431601916395" expanded="true" signature="1328:15741" placeholder="..." />
+            <marker date="1431601916395" expanded="true" signature="1602:1678" placeholder="..." />
+            <marker date="1431601916395" expanded="true" signature="1752:1883" placeholder="..." />
+            <marker date="1431601916395" expanded="true" signature="1777:1856" placeholder="..." />
+            <marker date="1431601916395" expanded="true" signature="1788:1844" placeholder="..." />
+            <marker date="1431601916395" expanded="true" signature="1947:2109" placeholder="..." />
+            <marker date="1431601916395" expanded="true" signature="2119:15741" placeholder="..." />
+            <marker date="1431601916395" expanded="true" signature="2162:2322" placeholder="..." />
+            <marker date="1431601916395" expanded="true" signature="2350:2898" placeholder="..." />
+            <marker date="1431601916395" expanded="true" signature="2926:3474" placeholder="..." />
+            <marker date="1431601916395" expanded="true" signature="3502:4050" placeholder="..." />
+            <marker date="1431601916395" expanded="true" signature="4078:4626" placeholder="..." />
+            <marker date="1431601916395" expanded="true" signature="4654:5202" placeholder="..." />
+            <marker date="1431601916395" expanded="true" signature="5230:5778" placeholder="..." />
+            <marker date="1431601916395" expanded="true" signature="5806:6354" placeholder="..." />
+            <marker date="1431601916395" expanded="true" signature="6382:6930" placeholder="..." />
+            <marker date="1431601916395" expanded="true" signature="6958:7506" placeholder="..." />
+            <marker date="1431601916395" expanded="true" signature="7534:8082" placeholder="..." />
+            <marker date="1431601916395" expanded="true" signature="8104:8149" placeholder="..." />
+            <marker date="1431601916395" expanded="true" signature="8171:8381" placeholder="..." />
+            <marker date="1431601916395" expanded="true" signature="8403:8986" placeholder="..." />
+            <marker date="1431601916395" expanded="true" signature="9008:9513" placeholder="..." />
+            <marker date="1431601916395" expanded="true" signature="9535:10093" placeholder="..." />
+            <marker date="1431601916395" expanded="true" signature="10115:10632" placeholder="..." />
+            <marker date="1431601916395" expanded="true" signature="10654:11224" placeholder="..." />
+            <marker date="1431601916395" expanded="true" signature="11246:11804" placeholder="..." />
+            <marker date="1431601916395" expanded="true" signature="11826:12396" placeholder="..." />
+            <marker date="1431601916395" expanded="true" signature="12418:13011" placeholder="..." />
+            <marker date="1431601916395" expanded="true" signature="13033:13557" placeholder="..." />
+            <marker date="1431601916395" expanded="true" signature="13579:13782" placeholder="..." />
+            <marker date="1431601916395" expanded="true" signature="13804:14371" placeholder="..." />
+            <marker date="1431601916395" expanded="true" signature="14393:14574" placeholder="..." />
+            <marker date="1431601916395" expanded="true" signature="14596:15160" placeholder="..." />
+            <marker date="1431601916395" expanded="true" signature="15182:15730" placeholder="..." />
+            <marker date="1431601916395" expanded="true" signature="15759:16390" placeholder="SELECT FIO||..TEMP_PREPOD_NAGRUZKA..." />
+            <marker date="1431601916395" expanded="true" signature="16429:17052" placeholder="SELECT FIO||..TEMP_PREPOD_NAGRUZKA..." />
+            <marker date="1431601916395" expanded="true" signature="17111:18208" placeholder="SELECT sum(L..temp_semestr_kategor..." />
+            <marker date="1431601916395" expanded="true" signature="18251:18882" placeholder="SELECT FIO||..TEMP_PREPOD_NAGRUZKA..." />
+            <marker date="1431601916395" expanded="true" signature="18923:19554" placeholder="SELECT FIO||..TEMP_PREPOD_NAGRUZKA..." />
+            <marker date="1431601916395" expanded="true" signature="19595:20690" placeholder="SELECT sum(L..temp_semestr_kategor..." />
+            <marker date="1431601916395" expanded="true" signature="20731:21826" placeholder="SELECT sum(L..temp_semestr_kategor..." />
+            <marker date="1431601916395" expanded="true" signature="36286:36396" placeholder="..." />
+            <marker date="1431601916395" expanded="true" signature="60819:60930" placeholder="..." />
+            <marker date="1431601916395" expanded="true" signature="66800:66960" placeholder="SELECT sum(S..temp_semestr_kategor..." />
+            <marker date="1431601916395" expanded="true" signature="77959:78601" placeholder="SELECT FIO||..TEMP_PREPOD_NAGRUZKA..." />
+            <marker date="1431601916395" expanded="true" signature="78640:79738" placeholder="SELECT sum(L..temp_semestr_kategor..." />
+            <marker date="1431601916395" expanded="true" signature="79781:80423" placeholder="SELECT FIO||..TEMP_PREPOD_NAGRUZKA..." />
+            <marker date="1431601916395" expanded="true" signature="80464:81558" placeholder="SELECT sum(L..temp_semestr_kategor..." />
+            <marker date="1431601916395" expanded="true" signature="81599:82695" placeholder="SELECT sum(L..temp_semestr_kategor..." />
+            <marker date="1431601916395" expanded="true" signature="116134:116294" placeholder="SELECT sum(S..temp_semestr_kategor..." />
+            <marker date="1431601916395" expanded="true" signature="127235:127884" placeholder="SELECT FIO||..TEMP_PREPOD_NAGRUZKA..." />
+            <marker date="1431601916395" expanded="true" signature="127923:129021" placeholder="SELECT sum(L..temp_semestr_kategor..." />
+            <marker date="1431601916395" expanded="true" signature="129064:129712" placeholder="SELECT FIO||..TEMP_PREPOD_NAGRUZKA..." />
+            <marker date="1431601916395" expanded="true" signature="129753:130849" placeholder="SELECT sum(L..temp_semestr_kategor..." />
+            <marker date="1431601916395" expanded="true" signature="130890:131986" placeholder="SELECT sum(L..temp_semestr_kategor..." />
+            <marker date="1431601916395" expanded="true" signature="165439:165599" placeholder="SELECT sum(S..temp_semestr_kategor..." />
+            <marker date="1431601916395" expanded="true" signature="176535:177693" placeholder="SELECT sum(L..temp_semestr_kategor..." />
+            <marker date="1431601916395" expanded="true" signature="177732:178830" placeholder="SELECT sum(L..temp_semestr_kategor..." />
+            <marker date="1431601916395" expanded="true" signature="178871:179970" placeholder="SELECT sum(L..temp_semestr_kategor..." />
+            <marker date="1431601916395" expanded="true" signature="180011:181093" placeholder="SELECT sum(L..temp_semestr_kategor..." />
+            <marker date="1431601916395" expanded="true" signature="181136:182294" placeholder="SELECT sum(L..temp_semestr_kategor..." />
+            <marker date="1431601916395" expanded="true" signature="182335:183434" placeholder="SELECT sum(L..temp_semestr_kategor..." />
+            <marker date="1431601916395" expanded="true" signature="183475:184574" placeholder="SELECT sum(L..temp_semestr_kategor..." />
+            <marker date="1431601916395" expanded="true" signature="184615:185697" placeholder="SELECT sum(L..temp_semestr_kategor..." />
+            <marker date="1431601916395" expanded="true" signature="185738:186820" placeholder="SELECT sum(L..temp_semestr_kategor..." />
+            <marker date="1431601916395" expanded="true" signature="222140:222294" placeholder="SELECT sum(S..temp_semestr_kategor..." />
+            <marker date="1431601916395" expanded="true" signature="227060:227214" placeholder="SELECT sum(S..temp_semestr_kategor..." />
+            <marker date="1431601916395" expanded="true" signature="231984:232138" placeholder="SELECT sum(S..temp_semestr_kategor..." />
+            <marker date="1431601916395" expanded="true" signature="236909:237048" placeholder="SELECT sum(S..temp_semestr_kategor..." />
+            <marker date="1431601916395" expanded="true" signature="264377:264906" placeholder="..." />
+            <marker date="1431601916395" expanded="true" signature="264392:264513" placeholder="..." />
+            <marker date="1431601916395" expanded="true" signature="264524:264796" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/store/ListSpiSt.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="28" selection-start="133" selection-end="133" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/store/ListGroSt.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="852">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/store/ListGridWinSt.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="290" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/model/ListSpiM.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="32" selection-start="133" selection-end="136" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="204">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/nagruzka_archiv.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="643">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/excel_nagruzka_archive.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="146" selection-end="316" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="80138" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/report1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="0" selection-start="590" selection-end="590" vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="67303">
+          <folding>
+            <marker date="1431427791000" expanded="true" signature="268:339" placeholder="SELECT yearn..v_study..." />
+            <marker date="1431427791000" expanded="true" signature="401:495" placeholder="SELECT study..v_study..." />
+            <marker date="1431427791000" expanded="true" signature="2238:2289" placeholder="Select FACNA..FACULTY..." />
+            <marker date="1431427791000" expanded="true" signature="2705:2904" placeholder="..." />
+            <marker date="1431427791000" expanded="true" signature="2730:2877" placeholder="..." />
+            <marker date="1431427791000" expanded="true" signature="2741:2797" placeholder="..." />
+            <marker date="1431427791000" expanded="true" signature="2808:2865" placeholder="..." />
+            <marker date="1431427791000" expanded="true" signature="2968:3200" placeholder="..." />
+            <marker date="1431427791000" expanded="true" signature="3210:9389" placeholder="..." />
+            <marker date="1431427791000" expanded="true" signature="3253:3413" placeholder="..." />
+            <marker date="1431427791000" expanded="true" signature="3435:3480" placeholder="..." />
+            <marker date="1431427791000" expanded="true" signature="3502:3713" placeholder="..." />
+            <marker date="1431427791000" expanded="true" signature="3735:4318" placeholder="..." />
+            <marker date="1431427791000" expanded="true" signature="4340:4845" placeholder="..." />
+            <marker date="1431427791000" expanded="true" signature="4867:5425" placeholder="..." />
+            <marker date="1431427791000" expanded="true" signature="5447:5964" placeholder="..." />
+            <marker date="1431427791000" expanded="true" signature="5986:6556" placeholder="..." />
+            <marker date="1431427791000" expanded="true" signature="6578:7136" placeholder="..." />
+            <marker date="1431427791000" expanded="true" signature="7158:7728" placeholder="..." />
+            <marker date="1431427791000" expanded="true" signature="7750:8274" placeholder="..." />
+            <marker date="1431427791000" expanded="true" signature="8296:8820" placeholder="..." />
+            <marker date="1431427791000" expanded="true" signature="8842:9378" placeholder="..." />
+            <marker date="1431427791000" expanded="true" signature="9417:9426" placeholder="..." />
+            <marker date="1431427791000" expanded="true" signature="14199:15138" placeholder="..." />
+            <marker date="1431427791000" expanded="true" signature="15252:17283" placeholder="..." />
+            <marker date="1431427791000" expanded="true" signature="17381:19181" placeholder="..." />
+            <marker date="1431427791000" expanded="true" signature="19404:19490" placeholder="SELECT DIVID..V_SPI_KAFEDR..." />
+            <marker date="1431427791000" expanded="true" signature="19656:20265" placeholder="select LECTI..temp_semestr_kategor..." />
+            <marker date="1431427791000" expanded="true" signature="24515:24634" placeholder="select sum(G..temp_god..." />
+            <marker date="1431427791000" expanded="true" signature="34725:35247" placeholder="..." />
+            <marker date="1431427791000" expanded="true" signature="34740:34861" placeholder="..." />
+            <marker date="1431427791000" expanded="true" signature="34872:35122" placeholder="..." />
+            <marker date="1431427791000" expanded="true" signature="40066:41000" placeholder="..." />
+            <marker date="1431427791000" expanded="true" signature="41114:43149" placeholder="..." />
+            <marker date="1431427791000" expanded="true" signature="43247:45047" placeholder="..." />
+            <marker date="1431427791000" expanded="true" signature="45269:45355" placeholder="SELECT DIVID..V_SPI_KAFEDR..." />
+            <marker date="1431427791000" expanded="true" signature="45521:46130" placeholder="select LECTI..temp_semestr_kategor..." />
+            <marker date="1431427791000" expanded="true" signature="50402:50521" placeholder="select sum(G..temp_god..." />
+            <marker date="1431427791000" expanded="true" signature="60609:61116" placeholder="..." />
+            <marker date="1431427791000" expanded="true" signature="60624:60745" placeholder="..." />
+            <marker date="1431427791000" expanded="true" signature="60756:61006" placeholder="..." />
+            <marker date="1431427791000" expanded="true" signature="65925:66867" placeholder="..." />
+            <marker date="1431427791000" expanded="true" signature="66981:69015" placeholder="..." />
+            <marker date="1431427791000" expanded="true" signature="69113:70913" placeholder="..." />
+            <marker date="1431427791000" expanded="true" signature="71152:71238" placeholder="SELECT DIVID..V_SPI_KAFEDR..." />
+            <marker date="1431427791000" expanded="true" signature="71405:72014" placeholder="select LECTI..temp_semestr_kategor..." />
+            <marker date="1431427791000" expanded="true" signature="76256:76375" placeholder="select sum(G..temp_god..." />
+            <marker date="1431427791000" expanded="true" signature="86621:86752" placeholder="..." />
+            <marker date="1431427791000" expanded="true" signature="86646:86725" placeholder="..." />
+            <marker date="1431427791000" expanded="true" signature="86657:86713" placeholder="..." />
+            <marker date="1431427791000" expanded="true" signature="86816:87079" placeholder="..." />
+            <marker date="1431427791000" expanded="true" signature="87089:92717" placeholder="..." />
+            <marker date="1431427791000" expanded="true" signature="87132:87292" placeholder="..." />
+            <marker date="1431427791000" expanded="true" signature="87314:87359" placeholder="..." />
+            <marker date="1431427791000" expanded="true" signature="87381:87591" placeholder="..." />
+            <marker date="1431427791000" expanded="true" signature="87613:88180" placeholder="..." />
+            <marker date="1431427791000" expanded="true" signature="88202:88707" placeholder="..." />
+            <marker date="1431427791000" expanded="true" signature="88729:89287" placeholder="..." />
+            <marker date="1431427791000" expanded="true" signature="89309:89826" placeholder="..." />
+            <marker date="1431427791000" expanded="true" signature="89848:90418" placeholder="..." />
+            <marker date="1431427791000" expanded="true" signature="90440:90998" placeholder="..." />
+            <marker date="1431427791000" expanded="true" signature="91020:91590" placeholder="..." />
+            <marker date="1431427791000" expanded="true" signature="91612:92136" placeholder="..." />
+            <marker date="1431427791000" expanded="true" signature="92158:92706" placeholder="..." />
+            <marker date="1431427791000" expanded="true" signature="101684:102919" placeholder="select YEAR_..temp_semestr_kategor..." />
+            <marker date="1431427791000" expanded="true" signature="117369:117675" placeholder="select YEAR_..temp_semestr_kategor..." />
+            <marker date="1431427791000" expanded="true" signature="117898:118208" placeholder="select YEAR_..temp_semestr_kategor..." />
+            <marker date="1431427791000" expanded="true" signature="118432:118742" placeholder="select YEAR_..temp_semestr_kategor..." />
+            <marker date="1431427791000" expanded="true" signature="118947:119266" placeholder="select YEAR_..temp_semestr_kategor..." />
+            <marker date="1431427791000" expanded="true" signature="119466:119687" placeholder="select YEAR_..temp_semestr_kategor..." />
+            <marker date="1431427791000" expanded="true" signature="119752:120877" placeholder="select YEAR_..temp_semestr_kategor..." />
+            <marker date="1431427791000" expanded="true" signature="128748:129291" placeholder="..." />
+            <marker date="1431427791000" expanded="true" signature="128763:128884" placeholder="..." />
+            <marker date="1431427791000" expanded="true" signature="128895:129145" placeholder="..." />
+            <marker date="1431427791000" expanded="true" signature="140449:141604" placeholder="select sum(L..temp_GOD..." />
+            <marker date="1431427791000" expanded="true" signature="150497:150539" placeholder="..." />
+            <marker date="1431427791000" expanded="true" signature="150602:150845" placeholder="..." />
+            <marker date="1431427791000" expanded="true" signature="150862:153063" placeholder="..." />
+            <marker date="1431427791000" expanded="true" signature="150905:151082" placeholder="..." />
+            <marker date="1431427791000" expanded="true" signature="151104:151149" placeholder="..." />
+            <marker date="1431427791000" expanded="true" signature="151171:151381" placeholder="..." />
+            <marker date="1431427791000" expanded="true" signature="151403:151986" placeholder="..." />
+            <marker date="1431427791000" expanded="true" signature="152008:152513" placeholder="..." />
+            <marker date="1431427791000" expanded="true" signature="152535:153052" placeholder="..." />
+            <marker date="1431427791000" expanded="true" signature="154385:154471" placeholder="select divid..v_spi_kafedr..." />
+            <marker date="1431427791000" expanded="true" signature="154661:155245" placeholder="SELECT A.SEM..SUM..." />
+            <marker date="1431427791000" expanded="true" signature="154794:154928" placeholder="select SUM(s..temp_semestr_kategor..." />
+            <marker date="1431427791000" expanded="true" signature="154941:155077" placeholder="select SUM(s..temp_semestr_kategor..." />
+            <marker date="1431427791000" expanded="true" signature="155090:155242" placeholder="SELECT STAT_..Z_PREPOD_UMU..." />
+            <marker date="1431427791000" expanded="true" signature="155309:155862" placeholder="SELECT A.SEM..SUM..." />
+            <marker date="1431427791000" expanded="true" signature="155442:155560" placeholder="select SUM(s..temp_semestr_kategor..." />
+            <marker date="1431427791000" expanded="true" signature="155574:155693" placeholder="select SUM(s..temp_semestr_kategor..." />
+            <marker date="1431427791000" expanded="true" signature="155707:155859" placeholder="SELECT STAT_..Z_PREPOD_UMU..." />
+            <marker date="1431427791000" expanded="true" signature="155927:156150" placeholder="SELECT D.STA..STAT_ID..." />
+            <marker date="1431427791000" expanded="true" signature="155997:156147" placeholder="SELECT STAT_..Z_PREPOD_UMU..." />
+            <marker date="1431427791000" expanded="true" signature="156213:156442" placeholder="select E.STA..STAT_ID..." />
+            <marker date="1431427791000" expanded="true" signature="156287:156439" placeholder="SELECT STAT_..Z_PREPOD_UMU..." />
+            <marker date="1431427791000" expanded="true" signature="156505:156728" placeholder="select F.STA..STAT_ID..." />
+            <marker date="1431427791000" expanded="true" signature="156575:156725" placeholder="SELECT STAT_..Z_PREPOD_UMU..." />
+            <marker date="1431427791000" expanded="true" signature="156791:156840" placeholder="SELECT NOMRM..DIVISION..." />
+            <marker date="1431427791000" expanded="true" signature="156903:156975" placeholder="SELECT PPS F..DIVISION_PPS..." />
+            <marker date="1431427791000" expanded="true" signature="158829:159052" placeholder="SELECT DECOD..Z_PREPOD_UMU..." />
+            <marker date="1431427791000" expanded="true" signature="159177:159398" placeholder="SELECT DECOD..Z_PREPOD_UMU..." />
+            <marker date="1431427791000" expanded="true" signature="159525:159755" placeholder="SELECT DECOD..Z_PREPOD_UMU..." />
+            <marker date="1431427791000" expanded="true" signature="159883:160112" placeholder="SELECT DECOD..Z_PREPOD_UMU..." />
+            <marker date="1431427791000" expanded="true" signature="163892:164039" placeholder="SELECT sum( ..DIVISION_PPS..." />
+            <marker date="1431427791000" expanded="true" signature="163962:164013" placeholder="select divid..v_spi_kafedr..." />
+            <marker date="1431427791000" expanded="true" signature="164147:164258" placeholder="SELECT sum( ..Z_PREPOD_UMU..." />
+            <marker date="1431427791000" expanded="true" signature="164376:164484" placeholder="SELECT sum( ..Z_PREPOD_UMU..." />
+            <marker date="1431427791000" expanded="true" signature="164600:164714" placeholder="SELECT sum( ..Z_PREPOD_UMU..." />
+            <marker date="1431427791000" expanded="true" signature="164830:164947" placeholder="SELECT sum( ..Z_PREPOD_UMU..." />
+            <marker date="1431427791000" expanded="true" signature="174452:174966" placeholder="SELECT STAT_..Z_PREPOD_UMU..." />
+            <marker date="1431427791000" expanded="true" signature="179689:180270" placeholder="..." />
+            <marker date="1431427791000" expanded="true" signature="179701:179980" placeholder="..." />
+            <marker date="1431427791000" expanded="true" signature="180008:180160" placeholder="..." />
+            <marker date="1431427791000" expanded="true" signature="180023:180147" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/dispetch_archiv.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="2" selection-start="821" selection-end="821" vertical-scroll-proportion="0.0" vertical-offset="391" max-vertical-offset="11203">
+          <folding>
+            <marker date="1433145891296" expanded="true" signature="160:238" placeholder="Select upper..division..." />
+            <marker date="1433145891296" expanded="true" signature="521:815" placeholder="select PREDM..NAGRUZKA_DISPETCH_DWH..." />
+            <marker date="1433145891296" expanded="true" signature="25254:25641" placeholder="..." />
+            <marker date="1433145891296" expanded="true" signature="25650:25660" placeholder="..." />
+            <marker date="1433145891296" expanded="true" signature="25669:25679" placeholder="..." />
+            <marker date="1433145891296" expanded="true" signature="25688:25845" placeholder="..." />
+            <marker date="1433145891296" expanded="true" signature="25924:26598" placeholder="..." />
+            <marker date="1433145891296" expanded="true" signature="25939:26227" placeholder="..." />
+            <marker date="1433145891296" expanded="true" signature="26147:26211" placeholder="..." />
+            <marker date="1433145891296" expanded="true" signature="26238:26437" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/Win_prep.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="79" selection-start="1435" selection-end="1435" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="884">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/Win_Spi.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="13" selection-start="1150" selection-end="1150" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="799">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="76" selection-end="76" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="204">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/Viewport.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="79" column="27" selection-start="2635" selection-end="2635" vertical-scroll-proportion="0.0" vertical-offset="825" max-vertical-offset="1700">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controller/Users.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="201" column="28" selection-start="9074" selection-end="9074" vertical-scroll-proportion="0.14571428" vertical-offset="3315" max-vertical-offset="7446">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/get_spi_prep.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="60" selection-end="348" vertical-scroll-proportion="0.097841725" vertical-offset="0" max-vertical-offset="695">
+          <folding>
+            <marker date="1434458898742" expanded="true" signature="68:345" placeholder="SELECT initc..V_SPI_PREPOD_NAGRUZKA..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

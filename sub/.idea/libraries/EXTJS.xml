@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="EXTJS" type="javaScript">
+    <properties>
+      <option name="frameworkName" value="ExtJS 4.2" />
+      <option name="frameworkVersion" value="4.2.1" />
+      <sourceFilesUrls>
+        <item url="file://Y:/ext-4.2.1/ext-all-debug-w-comments.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://Y:/ext-4.2.1/ext-all-debug-w-comments.js" />
+    </CLASSES>
+    <DOCUMENTATION>
+      <root url="http://docs.sencha.com/extjs/4.2.0/#!/api" />
+    </DOCUMENTATION>
+    <SOURCES />
+  </library>
+</component>

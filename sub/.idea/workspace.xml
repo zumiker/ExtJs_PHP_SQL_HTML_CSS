@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4fab1a16-c9c0-4660-b8ff-4dc623ba211c" name="Default" comment="" />
+    <ignored path="sub.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="sub" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/ppv2/debug_get.php" />
+        <option value="Z:/15555ru/php/php_fpk/test_ajax_1.php" />
+        <option value="Z:/15555ru/php/php_fpk/test_ajax.php" />
+        <option value="Z:/15555ru/php/php_fpk/get_qual1.php" />
+        <option value="Z:/fpk/php/get_qual.php" />
+        <option value="Z:/15555ru/js/fpk.js" />
+        <option value="Z:/fpk/js/script.js" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="SearchEverywhereHistory" value="" />
+    <property name="options.lastSelected" value="JavaScript.Libraries" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\projects\sub" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server" server_id="fd6d40cc-44fc-41d1-ba6c-84fd42f7589e" server_name="Z">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4fab1a16-c9c0-4660-b8ff-4dc623ba211c" name="Default" comment="" />
+      <created>1393247069893</created>
+      <updated>1393247069893</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2747604" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32911393" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://Z:/15555ru/js/fpk.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="315" column="57" selection-start="10018" selection-end="10036" vertical-scroll-proportion="0.0" vertical-offset="5147" max-vertical-offset="10489" />
+      </provider>
+    </entry>
+    <entry file="file://Z:/fpk/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="589" column="42" selection-start="19163" selection-end="19163" vertical-scroll-proportion="0.0" vertical-offset="9392" max-vertical-offset="10931" />
+      </provider>
+    </entry>
+    <entry file="file://Z:/15555ru/php/php_fpk/test_ajax.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="0" selection-start="1083" selection-end="1083" vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="867" />
+      </provider>
+    </entry>
+    <entry file="file://Z:/15555ru/php/php_fpk/test_ajax_1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="0" selection-start="937" selection-end="1083" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="1173" />
+      </provider>
+    </entry>
+    <entry file="file://Z:/15555ru/php/php_fpk/get_fdpo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="30" selection-start="54" selection-end="65" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="238" />
+      </provider>
+    </entry>
+    <entry file="file://Z:/15555ru/php/php_fpk/get_formdpo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272" />
+      </provider>
+    </entry>
+    <entry file="file://Z:/15555ru/php/php_fpk/get_docdpo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238" />
+      </provider>
+    </entry>
+    <entry file="file://Z:/15555ru/php/php_fpk/get_vdpo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238" />
+      </provider>
+    </entry>
+    <entry file="file://Z:/15555ru/php/php_fpk/test_ajax_2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="2" selection-start="220" selection-end="220" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="255" />
+      </provider>
+    </entry>
+    <entry file="file://Z:/15555ru/js/fpk.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="225" column="23" selection-start="7176" selection-end="7176" vertical-scroll-proportion="0.0" vertical-offset="3505" max-vertical-offset="10421" />
+      </provider>
+    </entry>
+    <entry file="file://Z:/15555ru/php/php_fpk/get_qual1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="29" selection-start="419" selection-end="419" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="748" />
+      </provider>
+    </entry>
+    <entry file="file://Z:/15555ru/php/php_fpk/test_ajax.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="0" selection-start="1083" selection-end="1083" vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="867" />
+      </provider>
+    </entry>
+    <entry file="file://Z:/15555ru/php/php_fpk/test_ajax_1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="0" selection-start="937" selection-end="1083" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="1173" />
+      </provider>
+    </entry>
+    <entry file="file://Z:/15555ru/php/php_fpk/get_fdpo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="30" selection-start="54" selection-end="65" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="238" />
+      </provider>
+    </entry>
+    <entry file="file://Z:/15555ru/php/php_fpk/get_formdpo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272" />
+      </provider>
+    </entry>
+    <entry file="file://Z:/15555ru/php/php_fpk/get_docdpo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238" />
+      </provider>
+    </entry>
+    <entry file="file://Z:/15555ru/php/php_fpk/get_vdpo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238" />
+      </provider>
+    </entry>
+    <entry file="file://Z:/15555ru/php/php_fpk/test_ajax_2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="2" selection-start="220" selection-end="220" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="255" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ppv2/debug.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ppv2/debug_get.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="24" selection-start="259" selection-end="259" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="289" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ppv2/debug.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ppv2/debug_get.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="24" selection-start="259" selection-end="259" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="289" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ppv2/debug_get.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="24" selection-start="259" selection-end="259" vertical-scroll-proportion="0.13522728" vertical-offset="0" max-vertical-offset="880" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ppv2/debug.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="272" />
+      </provider>
+    </entry>
+    <entry file="file://Z:/15555ru/php/php_fpk/get_qual1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="22" selection-start="847" selection-end="847" vertical-scroll-proportion="-20.923077" vertical-offset="0" max-vertical-offset="748" />
+      </provider>
+    </entry>
+    <entry file="file://Z:/fpk/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="589" column="42" selection-start="19163" selection-end="19163" vertical-scroll-proportion="0.67353576" vertical-offset="9392" max-vertical-offset="10931" />
+      </provider>
+    </entry>
+    <entry file="file://Z:/15555ru/js/fpk.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="315" column="57" selection-start="10018" selection-end="10036" vertical-scroll-proportion="0.22559653" vertical-offset="5147" max-vertical-offset="10489" />
+      </provider>
+    </entry>
+    <entry file="file://Z:/15555ru/php/php_fpk/test_ajax.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="0" selection-start="1083" selection-end="1083" vertical-scroll-proportion="0.36049107" vertical-offset="0" max-vertical-offset="896" />
+      </provider>
+    </entry>
+    <entry file="file://Z:/15555ru/php/php_fpk/test_ajax_1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="0" selection-start="937" selection-end="1083" vertical-scroll-proportion="0.15178572" vertical-offset="153" max-vertical-offset="1173" />
+      </provider>
+    </entry>
+    <entry file="file://Z:/15555ru/php/php_fpk/get_fdpo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="30" selection-start="54" selection-end="65" vertical-scroll-proportion="0.05691964" vertical-offset="0" max-vertical-offset="896" />
+      </provider>
+    </entry>
+    <entry file="file://Z:/15555ru/php/php_fpk/get_formdpo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="906" />
+      </provider>
+    </entry>
+    <entry file="file://Z:/15555ru/php/php_fpk/get_docdpo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="906" />
+      </provider>
+    </entry>
+    <entry file="file://Z:/15555ru/php/php_fpk/get_vdpo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="885" />
+      </provider>
+    </entry>
+    <entry file="file://Z:/15555ru/php/php_fpk/test_ajax_2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="2" selection-start="220" selection-end="220" vertical-scroll-proportion="0.17075893" vertical-offset="0" max-vertical-offset="896" />
+      </provider>
+    </entry>
+  </component>
+</project>
+

@@ -1,0 +1,40 @@
+@media screen
+  {
+  body
+    {
+    margin: 0;
+    padding: 2em 0 0 0;
+    font-size: 1em;
+    }
+  div#fixedBox
+    {
+    overflow: auto;
+    width: 100%;
+    height: 2em;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: #f0f0f0;
+    }
+  div#fixedBox h1,
+  div#fixedBox h2,
+  div#fixedBox p,
+  div#fixedBox address,
+  div#fixedBox div,
+  div#fixedBox pre
+    {
+    margin: 0;
+    padding: 10px;
+    }
+  div#content
+    {
+    padding: 1%;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size:11px;
+    }
+  div>a[id]
+    {
+    position: relative;
+    bottom: 7em;
+    }
+  }

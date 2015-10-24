@@ -1,0 +1,123 @@
+/*-----Количество сотрудников по кафедре---------------------------------------------------------*/
+Ext.define('person_count',
+{
+	extend:'Ext.data.Model',
+	fields: 
+	[
+		{name:'FACNAME'},
+		{name:'DIVNAME'},
+		{name:'COUNT'},
+		{name:'DIVID'}
+	]
+});  
+var sPersons=Ext.create('Ext.data.JsonStore',
+{
+	model:'person_count',
+	autoLoad:true,
+	groupField:'FACNAME',
+	proxy: 
+	{
+		type:'ajax', 
+		url:'php/get_divisions.php',
+		reader: 
+		{
+			type:'json',
+			root:'rows'
+		}
+	}
+});
+/*------------------------------------------------------------------*/
+Ext.define('mFaculty',
+{
+	extend:'Ext.data.Model',
+	fields:
+	[
+		{name:'FACNAME'},
+		{name:'FACID'}
+	]
+});  
+var sFaculty=Ext.create('Ext.data.JsonStore',
+{
+	model:'mFaculty',
+	autoLoad:false,
+	proxy: 
+	{
+		type:'ajax', 
+		url:'php/get_faculty.php',
+		reader: 
+		{
+			type:'json',
+			root:'rows'
+		}
+	}
+});
+var sFaculty2=Ext.create('Ext.data.JsonStore',
+{
+	model:'mFaculty',
+	autoLoad:false,
+	proxy: 
+	{
+		type:'ajax', 
+		url:'php/get_faculty2.php',
+		reader: 
+		{
+			type:'json',
+			root:'rows'
+		}
+	}
+});
+/*------------------------------------------------------------------*/
+Ext.define('mGroup',
+{
+	extend:'Ext.data.Model',
+	fields:
+	[
+		{name:'GROCODE'}
+	]
+});  
+var sGroup=Ext.create('Ext.data.JsonStore',
+{
+	model:'mGroup',
+	autoLoad:false,
+	proxy: 
+	{
+		type:'ajax', 
+		url:'php/get_group.php',
+		reader: 
+		{
+			type:'json',
+			root:'rows'
+		}
+	}
+});
+/*------------------------------------------------------------------*/
+Ext.define('mRed',
+{
+	extend:'Ext.data.Model',
+	fields:
+	[
+		{name:'GROCODE'},
+		{name:'FIO'},
+		{name:'SRED_BALL'},
+		{name:'SRED_RATING'},
+		{name:'HOLDINGNAME'},
+		{name:'COMPANYNAME'},
+		{name:'KAT'},
+		{name:'MANID'}
+	]
+});  
+var sRed=Ext.create('Ext.data.JsonStore',
+{
+	model:'mRed',
+	autoLoad:false,
+	proxy: 
+	{
+		type:'ajax', 
+		url:'php/get_red.php',
+		reader: 
+		{
+			type:'json',
+			root:'rows'
+		}
+	}
+});

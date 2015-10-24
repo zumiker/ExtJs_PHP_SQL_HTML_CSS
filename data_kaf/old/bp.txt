@@ -1,0 +1,13 @@
+
+$typeid = $_REQUEST['ktype'];
+
+
+
+if($typeid == '0')
+{
+	$sql.= " from v_spi_kafedr vsk, data_kaf dk  where vsk.divid = dk.divid(+) and vsk.facid = $facid order by vsk.facid, vsk.kaf";
+}
+else
+{
+	$sql.= " from v_spi_kafedr vsk, data_kaf dk  where vsk.divid = dk.divid(+) and vsk.facid = $facid and vsk.ktype_id = $typeid order by vsk.facid, vsk.kaf";
+}
